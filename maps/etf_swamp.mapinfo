@@ -1,0 +1,27 @@
+mapinfo {
+	map 		"etf_swamp";
+	longname 	"Swamp";
+	type 		"etf";
+	gameindices	"1,2,9";
+	
+	
+	// -1- Capture The Flag
+	gameindexDef 1 {
+		longname 	"^2Swamp^7: Marshlands CTF";
+		mapinfo	"10-20 players\n\n\n\n\n\nGrab the enemy's flag from their flagroom.  Run or swim it out of thier base and return it to your ramp room for 10 points.\n\n\n\n\n\nSee readme.txt for proper match start procedure\n\n\n\n\n\nOriginal author: >V< Null\nAdapted for Q3F by:^4|^7DiRe^4|^7l0g1c & ^4|^7LB^4|^15^0anny^*";
+		minplayers	"8";
+		maxplayers	"20";
+	}
+		gameindexDef 2 {
+		longname 	"Classic ^2Swamp^7 CTF";
+		mapinfo	"10-14 players\n\n\n\n\n\nGrab the enemy's flag from their flagroom.  Run it out of thier base and return it to your ramp room for 10 points.\n\n\n\n\n\nSee readme.txt for proper match start procedure\n\n\n\n\n\nOriginal author: >V< Null\nAdapted for Q3F by:^4|^7DiRe^4|^7l0g1c & ^4|^7LB^4|^15^0anny^*";
+		minplayers	"8";
+		maxplayers	"20";
+	}
+	gameindexDef 9 {
+		longname 	"^2Swamp^7 Duel";
+		mapinfo	"2 players\n\n\n\n\n\nFight to the death in the swamp!\n\n\n\n\n\nCreated by:^4|^7DiRe^4|^7l0g1c & ^4|^7LB^4|^15^0anny^*";
+	}
+
+
+}

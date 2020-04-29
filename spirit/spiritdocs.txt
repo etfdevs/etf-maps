@@ -1,0 +1,151 @@
+Spirit File Docs by caNaBiS
+
+use blocks like
+
+system {
+  commands args
+ 
+}
+
+You can add multiple systems to 1 script
+
+You can only add 1 of the following to each script
+
+sound/loopsound "soundfile"	
+link	"script"
+
+
+Random's work with a base and a random range
+if you use a negative range the random will behave as a normal random
+but it will have a random sign.
+So:
+10 20 -> random number between 10 and 30
+10 -20 -> random number between -30 and -10 or 10 and 30
+
+
+//Supported particle types
+
+sprite <random radiusbase> <random radiusrange> 
+Display a sprite with certain radius
+
+model <random scalebase> <random scalerange> <modelfilename>
+Particle is displayed as the given model
+
+dlight <intensity> <random radiusbase> <random radiusrange> 
+Turns the particle into a dynamic light.
+
+//Controlling the shader, color, size of the particle
+
+shader <shadername>
+Shader used to display particle or for the model if a model is given.
+
+animshaders <numframes> <frametime> <shader0> <shader1> <shader...>
+Animating shader
+
+rgb <red> <green> <blue>
+Color of the particle, with rgbgen vertex shader
+
+rgbrange <red> <green> <blue>	 <red> <green> <blue>
+Move from the first color to the second during the particles life.
+
+alpha <alpa> <fadein fraction> <fadeout fraction>
+Alpha value of the particle with alphagen vertex shader.
+
+worldlight
+Light the particle using the world light data.
+
+cullrange <range>
+If particle is within this range of the player viewpoint, it won't show
+
+scale <wavefunc> <frequency>
+Wavefunc can be linear, sin, triangle
+frequency is the amount of waves during the particles life
+Not really finished this, better not use it :)
+
+// Particle generation rate
+
+spawnrate <rate>
+Amount of particles that are generated/second
+
+spawnrange <range>
+Only spawn particles if the viewpoint is within this range
+
+count  <count>
+Everytime system is displayed output this many particle.
+
+life <seconds>
+Indeed particle life
+
+delay <random delay>
+Extra delay before particle's life
+
+//Commands controlling start postion of sprite 
+
+
+offset <random x> <random y> <random z>
+Offset along system's axis to start emiting particles
+
+direction <random x> <random y> <random z>
+Give the particle a direction along the original particle axis.
+Making certain values higher will make them move more in that direction.
+
+distance <random length>
+Distance traveled along the direction to get the real start address.
+
+
+angles <random yaw> <random pitch> <random roll>
+Angle the particle is spawned with
+For sprites only the roll has any influence on the rotation
+
+avelocity <random yaw> <random pitch> <random roll>
+Anglespeed of particle in degrees/second
+
+//collision, bouncing
+
+bouncefactor <factor>
+Whenever a particle bounces against a surface determined by "collision" it bouncefactor 
+amount of his original velocity.
+
+collision <type>
+Types of surfaces the particles will collide against and then bounce with "bouncefactor"
+or die with "dietouch"
+Type's are COL_SOLID or COL_WATER
+
+dietouch
+Particles will die on impact with "collision"
+
+
+//Speed, movement of the particle
+
+velocity <random velocity>
+The speed of the particle/second
+
+friction <friction>
+Allows you to change the speed over time.
+Setting this to a negative value will slow down the particle
+
+accel <accelx> <accely> <accelz>
+Accelerate the particle in the different directions.
+
+rotate	<rotx> <roty> <rotz>
+Rotate the particle around 0,0,0. Only useful with grouped particles
+Rotation in degrees/second
+
+//Coder related options
+
+customrgb
+Use a custom color specified by the code
+
+customshader
+Use a custom shader specified by the code
+
+group <die/unlink/wait>
+Spawn the particles in a group that stays linked to whatever they spawned from.
+If the group isn't updated anymore, the extra command determines what happens to the particles.
+
+
+
+
+
+
+

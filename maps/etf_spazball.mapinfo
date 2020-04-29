@@ -1,0 +1,15 @@
+mapinfo {
+	map		"etf_spazball";
+	longname	"Spazball";
+	type		"etf";
+	gameindices	"1";
+	gameindexDef 1 {
+		longname	"Spazball Capture The Ball";
+		mapinfo		"^1Game Mode: ^3Capture The Ball\n^7Knock the other teams out by taking the spazball into each of their endzones 5 times. \nDon't let them get you out, and watch out for traps! \n\n\n\nIf another team has the ball and isn't trying to score against you, it's in your best interests to help them out.";
+		grenadier_limit "1";
+		engineer_limit  "1";
+		sniper_limit    "1";
+		minigunner_limit "1";
+	}
+}
+

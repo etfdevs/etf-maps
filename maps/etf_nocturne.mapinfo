@@ -1,0 +1,20 @@
+mapinfo {
+	map		"etf_nocturne";
+	longname	"Nocturne";
+	type		"etf";
+	gameindices	"1,2,3";
+	
+	gameindexDef 1 {
+		longname	"Nocturne CTF";
+		mapinfo		"^1Game Mode: ^3Capture The Flag\n^75-8 players per team.\nSteal the enemy flag and capture at the bottom floor of your base for 10 team points.";
+	}
+	gameindexDef 2 {
+		longname	"Nocturne 1-flag CTF";
+		mapinfo		"^1Game Mode: ^3One Flag Capture The Flag\n^75-8 players per team.\nSteal the flag from the center of the map and capture it at your enemy's flag stand for 10 team points.";
+	}
+	gameindexDef 3 {
+		longname	"Nocturne Reverse CTF";
+		mapinfo		"^1Game Mode: ^3Reverse Capture The Flag\n^75-8 players per team.\nTake your flag to the enemy flag stand to capture it for 10 team points.";
+	}
+}
+

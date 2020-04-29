@@ -1,0 +1,37 @@
+mapinfo {
+	map		"ctf_demo";			// BSP name
+	longname	"Gametypes Demo";				// Long name for map, general description of it
+	type		"etf";					// Game it is for (all etf maps are marked with "etf")
+	gameindices	"1,2,3,4,5,9";				// Available gameindices
+
+
+	gameindexDef 1 {					// Gameindex Definition
+		longname	"Gametype Demo aCTF";	// Long name for this gameindex
+		mapinfo		"Gameindex 1 = Advanced CTF";
+civilian_limit "1";
+
+	}
+	gameindexDef 2 {					// Gameindex Definition
+		longname	"Gametype Demo One Flag CTF";	// Long name for this gameindex
+		mapinfo		"Gameindex 2 = 1 Flag CTF";
+	}
+	gameindexDef 3 {
+		longname	"Gametype Demo Reverse CTF";
+		mapinfo		"Gameindex 3 = Reverse CTF";
+	}
+	gameindexDef 4 {
+		longname	"Gametype Demo Capture & Hold";
+		mapinfo		"Gameindex 4 = Orbital Style Capture & Hold";
+	}
+	gameindexDef 5 {
+		longname	"Gametype Demo Dynamic CTF";
+		mapinfo		"Gameindex 5 = Dynamic CTF Silverfort Style";
+	}
+	gameindexDef 9 {
+		longname	"Gametype Demo Fast Caps";
+		mapinfo		"Gameindex 9 = Fast Caps";
+		red_limit "1";
+		novote "1";
+	}
+
+}

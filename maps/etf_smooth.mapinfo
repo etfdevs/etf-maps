@@ -1,0 +1,30 @@
+mapinfo {
+	map 		"etf_smooth";
+	longname 	"Smooth";
+	type 		"etf";
+	gameindices	"1,2,3,9";
+	
+	
+	gameindexDef 1 {
+		longname 	"Smooth CTF";
+		mapinfo		"^1Game Mode: ^3Capture The Flag\n^76-10 players per team.\nSteal the enemy flag and capture it in the tower of your base for 10 team points.  Look out for a hidden quad in each base.";
+
+	}
+	gameindexDef 2 {
+		longname 	"Smooth 1 Flag CTF";
+		mapinfo		"^1Game Mode: ^3One Flag Capture The Flag\n^76-10 players per team.\nGrab the flag on the middle bridge and capture it in your enemy's flagroom";
+
+	}
+	gameindexDef 3 {
+		longname 	"Smooth Reverse CTF";
+		mapinfo		"^1Game Mode: ^3Reverse Capture The Flag\n^76-10 players per team.\nTake your flag from its stand and capture it in your enemy's flagroom";
+
+	}
+	gameindexDef 9 {
+		longname	"Smooth Fast Caps";
+		mapinfo		"^1Game Mode: ^3Fast Caps\n^71 Player.\nYou spawn as red team by the timer flag. Take the flag to the opposite capture point on the tower as fast as you can!";
+		red_limit "1";
+		novote "1";
+	}
+
+}

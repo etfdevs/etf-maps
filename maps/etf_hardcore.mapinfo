@@ -1,0 +1,29 @@
+mapinfo {
+	map		"etf_hardcore";
+	longname	"Hardcore Forts";
+	type		"etf";
+	gameindices	"1,2,3,4,9";
+	gameindexDef 1 {
+		longname	"Hardcore Forts CTF";
+		mapinfo		"^1Game Mode: ^3Capture The Flag\n^76-10 players per team.\nSteal the enemy flag and capture it in your lobby for 10 team points.";
+	}
+	gameindexDef 2 {
+		longname	"Hardcore Forts 1-Flag CTF";
+		mapinfo		"^1Game Mode: ^3One Flag Capture The Flag\n^76-10 players per team.\nSteal the flag from the center of the map and capture it at your enemy's flag stand for 10 team points.";
+	}
+	gameindexDef 3 {
+		longname	"Hardcore Forts Reverse CTF";
+		mapinfo		"^1Game Mode: ^3Reverse Capture The Flag\n^76-10 players per team.\nTake your flag to the enemy flag stand to capture it for 10 team points.";
+	}
+	gameindexDef 4 {
+		longname	"Hardcore Forts Minigunner Hunted";
+		mapinfo		"^1Game Mode: ^3Hunt The Minigunner\n^76-10 players per team.\nKill the opponent's Minigunner for 10 team points.";
+		minigunner_limit "1";
+	}
+	gameindexDef 9 {
+		longname	"Hardcore Fast Caps";
+		mapinfo		"^1Game Mode: ^3Fast Caps\n^71 Player.\nYou spawn as red team by the timer flag. Take the flag to the opposite capture point as fast as you can!";
+		red_limit "1";
+		novote "1";
+	}
+}

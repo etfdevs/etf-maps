@@ -1,0 +1,26 @@
+mapinfo {
+	map		"etf_openfire";
+	longname	"Open Fire";
+	type		"etf";
+	gameindices	"1,2,3,9";
+	atmosphere	"T=SNOW,B=5 10,C=0.5,G=0.5 2,BV=0,GV=0 100,W=1 2,S=1 1,N=300";
+	gameindexDef 1 {
+		longname	"Open Fire CTF";
+		mapinfo		"^1Game Mode: ^3Capture The Flag\n^74-8 players per team.\nDisable the enemy team's forcefield to steal their flag and capture it in your team's button room.";
+	}
+	gameindexDef 2 {
+		longname	"Open Fire 1-flag CTF";
+		mapinfo		"^1Game Mode: ^3One Flag Capture The Flag\n^74-8 players per team.\nDisable the enemy team's forcefield and capture the 1-flag in their base.";
+	}
+	gameindexDef 3 {
+		longname	"Open Fire Reverse CTF";
+		mapinfo		"^1Game Mode: ^3Reverse Capture The Flag\n^74-8 players per team.\nDisable the enemy team's forcefield and capture your flag in their base.";
+	}
+	gameindexDef 9 {
+		longname	"Open Fire Fast Caps";
+		mapinfo		"^1Game Mode: ^3Fast Caps\n^71 Player.\nYou spawn as red team by the timer flag. Take the flag to the opposite capture point as fast as you can!";
+		red_limit "1";
+		novote "1";
+	}
+}
+

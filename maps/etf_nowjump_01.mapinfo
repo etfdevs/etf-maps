@@ -1,0 +1,11 @@
+mapinfo {
+	map 		"etf_nowjump_01";
+	longname 	"Snowfall";
+	type 		"etf";
+	gameindices	"1";
+	
+	gameindexDef 1 {
+		longname 	"Snowfall";
+		mapinfo	"Complete the course as fast as you can! Run bunny run!";
+	}
+}

@@ -1,0 +1,18 @@
+#include "include/spirit.h"
+
+system
+{
+	tracer		0.5	5 0	-3 0
+	shader		"etf_muon/spirit/tracer_red"
+
+	spawnrate	30
+	life		0.5
+
+	alpha		1	0	0.1
+
+	velocity	75 10
+	offset		0 0	-20 40	0 0
+
+	direction	-4 -8	-1 2	-4 -8
+	accel		0	0	-400
+}

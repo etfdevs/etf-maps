@@ -1,0 +1,21 @@
+#include "include/spirit.h"
+
+system {
+	sprite		16 2	4 1
+	shader		opensteam
+
+	spawnrate	10
+	life		0.6	
+	
+	angles		0 0	0 0	0 360
+	avelocity	0 0	0 0	-25 50
+
+	alpha		0.9	0	0.25
+	
+	direction	0 1	0 1	4 0
+	velocity	80	25
+	friction	-1
+
+
+	offset		0 0	0 0	-1 0
+}

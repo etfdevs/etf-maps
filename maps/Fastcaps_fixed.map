@@ -1,0 +1,144 @@
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+( 536 200 -64 ) ( -160 200 -64 ) ( -160 -256 -64 ) evil6_floors/e6c_floor 80 0 0 0.500000 0.500000 0 0 0
+( -160 -256 -48 ) ( -160 200 -48 ) ( 536 200 -48 ) evil6_floors/e6c_floor 80 0 0 0.500000 0.500000 0 0 0
+( -192 -256 888 ) ( 504 -256 888 ) ( 504 -256 872 ) evil6_floors/e6c_floor 80 16 0 0.500000 0.500000 0 0 0
+( 512 -256 888 ) ( 512 200 888 ) ( 512 200 872 ) evil6_floors/e6c_floor 0 16 0 0.500000 0.500000 0 0 0
+( 504 200 888 ) ( -192 200 888 ) ( -192 200 872 ) evil6_floors/e6c_floor 80 16 0 0.500000 0.500000 0 0 0
+( -192 200 888 ) ( -192 -256 888 ) ( -192 -256 872 ) evil6_floors/e6c_floor 0 16 0 0.500000 0.500000 0 0 0
+}
+// brush 1
+{
+( -192 200 1272 ) ( -192 -256 1272 ) ( -192 -256 1256 ) evil6_floors/e6c_floor 0 16 0 0.500000 0.500000 0 0 0
+( 512 200 1272 ) ( -184 200 1272 ) ( -184 200 1256 ) evil6_floors/e6c_floor 64 16 0 0.500000 0.500000 0 0 0
+( 512 -256 1272 ) ( 512 200 1272 ) ( 512 200 1256 ) evil6_floors/e6c_floor 0 16 0 0.500000 0.500000 0 0 0
+( -184 -256 1272 ) ( 512 -256 1272 ) ( 512 -256 1256 ) evil6_floors/e6c_floor 64 16 0 0.500000 0.500000 0 0 0
+( -152 -256 336 ) ( -152 200 336 ) ( 544 200 336 ) evil6_floors/e6c_floor 64 0 0 0.500000 0.500000 0 0 0
+( 544 200 320 ) ( -152 200 320 ) ( -152 -256 320 ) evil6_floors/e6c_floor 64 0 0 0.500000 0.500000 0 0 0
+}
+// brush 2
+{
+( 560 200 -48 ) ( 512 200 -48 ) ( 512 -256 -48 ) evil8_wall/e8_mtlwall3 0 0 0 0.500000 0.500000 0 0 0
+( 512 -256 320 ) ( 512 200 320 ) ( 560 200 320 ) evil8_wall/e8_mtlwall3 0 0 0 0.500000 0.500000 0 0 0
+( 512 -256 312 ) ( 560 -256 312 ) ( 560 -256 -40 ) evil8_wall/e8_mtlwall3 0 0 0 0.500000 0.500000 0 0 0
+( 544 -256 312 ) ( 544 200 312 ) ( 544 200 -40 ) evil8_wall/e8_mtlwall3 0 0 0 0.500000 0.500000 0 0 0
+( 560 200 312 ) ( 512 200 312 ) ( 512 200 -40 ) evil8_wall/e8_mtlwall3 0 0 0 0.500000 0.500000 0 0 0
+( 512 200 312 ) ( 512 -256 312 ) ( 512 -256 -40 ) evil8_wall/e8_mtlwall3 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 3
+{
+( -224 200 312 ) ( -224 -256 312 ) ( -224 -256 -40 ) evil8_wall/e8_mtlwall3 0 0 0 0.500000 0.500000 0 0 0
+( -176 200 312 ) ( -224 200 312 ) ( -224 200 -40 ) evil8_wall/e8_mtlwall3 192 0 0 0.500000 0.500000 0 0 0
+( -192 -256 312 ) ( -192 200 312 ) ( -192 200 -40 ) evil8_wall/e8_mtlwall3 0 0 0 0.500000 0.500000 0 0 0
+( -224 -256 312 ) ( -176 -256 312 ) ( -176 -256 -40 ) evil8_wall/e8_mtlwall3 192 0 0 0.500000 0.500000 0 0 0
+( -224 -256 320 ) ( -224 200 320 ) ( -176 200 320 ) evil8_wall/e8_mtlwall3 192 0 0 0.500000 0.500000 0 0 0
+( -176 200 -48 ) ( -224 200 -48 ) ( -224 -256 -48 ) evil8_wall/e8_mtlwall3 192 0 0 0.500000 0.500000 0 0 0
+}
+// brush 4
+{
+( -160 240 -48 ) ( -192 240 -48 ) ( -192 200 -48 ) evil8_wall/e8_mtlwall3 -64 0 0 0.500000 0.500000 0 0 0
+( -192 200 320 ) ( -192 240 320 ) ( -160 240 320 ) evil8_wall/e8_mtlwall3 -64 0 0 0.500000 0.500000 0 0 0
+( -192 200 320 ) ( -160 200 320 ) ( -160 200 -48 ) evil8_wall/e8_mtlwall3 -64 0 0 0.500000 0.500000 0 0 0
+( 512 192 320 ) ( 512 232 320 ) ( 512 232 -48 ) evil8_wall/e8_mtlwall3 0 0 0 0.500000 0.500000 0 0 0
+( -160 240 320 ) ( -192 240 320 ) ( -192 240 -48 ) evil8_wall/e8_mtlwall3 -64 0 0 0.500000 0.500000 0 0 0
+( -192 240 320 ) ( -192 200 320 ) ( -192 200 -48 ) evil8_wall/e8_mtlwall3 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 5
+{
+( -192 -256 320 ) ( -192 -296 320 ) ( -192 -296 -48 ) evil8_wall/e8_mtlwall3 -32 0 0 0.500000 0.500000 0 0 0
+( -160 -256 320 ) ( -192 -256 320 ) ( -192 -256 -48 ) evil8_wall/e8_mtlwall3 -64 0 0 0.500000 0.500000 0 0 0
+( 512 -296 320 ) ( 512 -256 320 ) ( 512 -256 -48 ) evil8_wall/e8_mtlwall3 -32 0 0 0.500000 0.500000 0 0 0
+( -192 -296 320 ) ( -160 -296 320 ) ( -160 -296 -48 ) evil8_wall/e8_mtlwall3 -64 0 0 0.500000 0.500000 0 0 0
+( -192 -296 320 ) ( -192 -256 320 ) ( -160 -256 320 ) evil8_wall/e8_mtlwall3 -64 32 0 0.500000 0.500000 0 0 0
+( -160 -256 -48 ) ( -192 -256 -48 ) ( -192 -296 -48 ) evil8_wall/e8_mtlwall3 -64 32 0 0.500000 0.500000 0 0 0
+}
+// brush 6
+{
+( 24 16 -48 ) ( -24 16 -48 ) ( -24 -24 -48 ) evil8_floor/e8clangfloor04_red 0 0 0 0.500000 0.500000 0 0 0
+( -24 -24 -40 ) ( -24 16 -40 ) ( 24 16 -40 ) evil8_floor/e8clangfloor04_red 0 0 0 0.500000 0.500000 0 0 0
+( -24 -24 -32 ) ( 24 -24 -32 ) ( 24 -24 -48 ) evil8_floor/e8clangfloor04_red 0 -96 0 0.500000 0.500000 0 0 0
+( 24 -24 -32 ) ( 24 16 -32 ) ( 24 16 -48 ) evil8_floor/e8clangfloor04_red 0 -96 0 0.500000 0.500000 0 0 0
+( 24 24 -32 ) ( -24 24 -32 ) ( -24 24 -48 ) evil8_floor/e8clangfloor04_red 0 -96 0 0.500000 0.500000 0 0 0
+( -24 16 -32 ) ( -24 -24 -32 ) ( -24 -24 -48 ) evil8_floor/e8clangfloor04_red 0 -96 0 0.500000 0.500000 0 0 0
+}
+// brush 7
+{
+( 144 184 -48 ) ( 80 184 -48 ) ( 80 120 -48 ) evil8_floor/e8clangfloor04warn 0 0 0 0.500000 0.500000 0 0 0
+( 80 120 -40 ) ( 80 184 -40 ) ( 144 184 -40 ) evil8_floor/e8clangfloor04warn 0 0 0 0.500000 0.500000 0 0 0
+( 80 120 -32 ) ( 144 120 -32 ) ( 144 120 -48 ) evil8_floor/e8clangfloor04warn 0 -96 0 0.500000 0.500000 0 0 0
+( 144 120 -32 ) ( 144 184 -32 ) ( 144 184 -48 ) evil8_floor/e8clangfloor04warn 0 -96 0 0.500000 0.500000 0 0 0
+( 144 184 -32 ) ( 80 184 -32 ) ( 80 184 -48 ) evil8_floor/e8clangfloor04warn 0 -96 0 0.500000 0.500000 0 0 0
+( 80 184 -32 ) ( 80 120 -32 ) ( 80 120 -48 ) evil8_floor/e8clangfloor04warn 0 -96 0 0.500000 0.500000 0 0 0
+}
+}
+// entity 1
+{
+"activetarget" "flag_timer=inactive"
+"give" "health=+100,armor=+200,ammo_cells=+200,ammo_shells=+200,ammo_bullets=+200,ammo_rockets=+200,gren1=+4,gren2=+4"
+"allowteams" "red"
+"angle" "180"
+"origin" "400 0 0"
+"classname" "info_player_deathmatch"
+}
+// entity 2
+{
+"inactivetarget" "watcher=~disabled,respawner"
+"activetarget" "watcher=~disabled,respawner"
+"allowteams" "red"
+"sparkle" "1 1 0"
+"color" "1 1 0"
+"light" "200"
+"model" "models/flags/y_flag.md3"
+"carried_sound" "sound/feedback/flagtk_you.wav"
+"wait" "0.1"
+"origin" "200 0 0"
+"carriedtarget" "flag_timer,watcher=~inactive"
+"groupname" "timeflag"
+"classname" "func_goalitem"
+}
+// entity 3
+{
+"wait" "0.5"
+"origin" "0 0 0"
+"holding" "timeflag"
+"activetarget" "flag_timer=inactive,announcer,timeflag=~inactive"
+"classname" "func_goalinfo"
+}
+// entity 4
+{
+"groupname" "flag_timer"
+"origin" "-128 -192 264"
+"classname" "misc_stopwatch"
+}
+// entity 5
+{
+"groupname" "respawner"
+"origin" "64 -192 264"
+"classname" "target_respawn"
+}
+// entity 6
+{
+"active_all_message" "asdf %x"
+"classname" "func_goalinfo"
+"origin" "112 152 0"
+"wait" "0.5"
+}
+// entity 7
+{
+"initialstate" "disabled"
+"groupname" "watcher"
+"origin" "-64 -192 0"
+"classname" "info_notnull"
+}
+// entity 8
+{
+"wait" "0.1"
+"inactive_all_message" "Time: %x"
+"checkstate" "watcher=inactive"
+"groupname" "announcer"
+"origin" "0 -192 264"
+"classname" "info_notnull"
+}

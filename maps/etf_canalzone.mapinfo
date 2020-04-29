@@ -1,0 +1,12 @@
+mapinfo {
+	map 		"etf_canalzone";
+	longname 	"Canalzone";
+	type 		"etf";
+	gameindices	"1";
+	
+	
+	gameindexDef 1 {
+		longname 	"Canalzone Capture and Hold";
+		mapinfo	"^1Game Mode: ^3Capture and Hold\n^78-10 Players per team.\nCapture command points with a flag from your command center. Points are awarded for each command point held.\nIf your team captures all eight points, storm the enemy base and capture it with your flag to win.\n\nHE charge in enemy command center resets enemy command points.\n^2HELP PAGE: http://www.etfgame.com/cz";
+	}
+}

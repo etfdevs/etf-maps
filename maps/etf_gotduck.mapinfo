@@ -1,0 +1,24 @@
+mapinfo {
+	map		"etf_gotduck";
+	longname	"Got Duck?";
+	type		"etf";
+	gameindices	"1,2";
+	gameindexDef 1 {
+		longname	"Got Duck?";
+		mapinfo		"^1Game Mode: ^3King of the Hill (4 teams)\n^72-4 players per team.\nSteal the duck and keep possession of it for as long as you can for team points.";
+		engineer_limit  "1";
+		sniper_limit    "0";
+		minigunner_limit "0";
+		recon_limit 	"0";
+	}
+	
+	gameindexDef 2 {
+			longname	"Got Duck? - 2 Team";
+			mapinfo		"^1Game Mode: ^3King of the Hill (2 teams)\n^73-6 players per team.\nSteal the duck and keep possession of it for as long as you can for team points.";
+			engineer_limit  "1";
+			sniper_limit    "0";
+			minigunner_limit "0";
+			recon_limit 	"0";
+	}
+}
+

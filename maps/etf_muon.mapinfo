@@ -1,0 +1,35 @@
+mapinfo {
+	map		"etf_muon";			// BSP name
+	longname	"Muon";				// Long name for map, general description of it
+	type		"etf";					// Game it is for (all etf maps are marked with "etf")
+	gameindices	"1,2,3,5,6,9";				// Available gameindices
+	atmosphere 	"T=RAIN,B=5 10,C=0.5,G=0.5 2,BV=0,GV=0 100,W=1 2,D=800 1000";
+
+	gameindexDef 1 {					// Gameindex Definition
+		longname	"Muon CTF";	// Long name for this gameindex
+		mapinfo		"^1Game Mode: ^3Capture The Flag\n^74-10 players per team.\nSteal the enemy flag and capture it at the generator in front of your base for 10 team points.";
+	}
+	gameindexDef 2 {					// Gameindex Definition
+		longname	"Muon 1-flag CTF";	// Long name for this gameindex
+		mapinfo		"^1Game Mode: ^3One Flag Capture The Flag\n^74-10 players per team.\nSteal the flag from the center of the map and capture it at your enemy's flag stand.";
+	}
+	gameindexDef 3 {					// Gameindex Definition
+		longname	"Muon Reverse CTF";	// Long name for this gameindex
+		mapinfo		"^1Game Mode: ^3Reverse Capture The Flag\n^74-10 players per team.\nTake your flag to the enemy flag stand to capture it.";
+	}
+	gameindexDef 5 {					// Gameindex Definition
+		longname	"Muon C&H (parts)";	// Long name for this gameindex
+		mapinfo		"^1Game Mode: ^3Capture and Hold (parts)\n^74-10 players per team.\nCapture and hold each of the 6 zones within the two bases using the machinery parts. Holding zones in the enemy base increases your score more than zones in your own base.";
+	}
+	gameindexDef 6 {					// Gameindex Definition
+		longname	"Muon C&H";	// Long name for this gameindex
+		mapinfo		"^1Game Mode: ^3Capture and Hold\n^74-10 players per team.\nCapture and hold each of the 6 zones within the two bases. Holding zones in the enemy base increases your score more than zones in your own base.";
+	}
+	gameindexDef 9 {
+		longname	"Muon Fast Caps";
+		mapinfo		"^1Game Mode: ^3Fast Caps\n^71 Player.\nYou spawn as red team by the timer flag. Take the flag to the opposite capture point as fast as you can!";
+		red_limit "1";
+		novote "1";
+	}
+}
+

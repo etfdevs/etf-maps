@@ -1,0 +1,50 @@
+mapinfo {	
+	map		"etf_allduel";
+	longname	"All Duel";	
+	type		"etf";			
+	gameindices	"1,2,3,4";	
+
+	gameindexDef 1 {
+		longname	"AllDuel Duel1";
+		mapinfo		"^1Game Mode: ^3Duel\n^7Duel1 map in two-arena format.  Health and Armor are displayed upon kill.";
+
+		red_name "^1Red ^4(v Blue)";
+		blue_name "^4Blue ^1(v Red)";
+		yellow_name "^3Yellow ^2(v Green)";
+		green_name "^2Green ^3(v Yellow)";
+		novote "1";
+	}
+
+	gameindexDef 2 {
+		longname	"AllDuel ADuel";
+		mapinfo		"^1Game Mode: ^3Duel\n^7Advanced Duel map in two-arena format.  Health and armor are displayed upon kill.";
+		red_name "^1Red ^4(v Blue)";
+		blue_name "^4Blue ^1(v Red)";
+		yellow_name "^3Yellow ^2(v Green)";
+		green_name "^2Green ^3(v Yellow)";
+		novote "1";
+	}
+
+	gameindexDef 3 {
+		longname	"AllDuel Versus";
+		mapinfo		"^1Game Mode: ^3Duel\n^7Versus map in two-arena format.  Knock your opponent off the edge of the arena or kill them to earn a point.  Only 1 player per team.";
+		red_name "^1Red ^4(v Blue)";
+		blue_name "^4Blue ^1(v Red)";
+		yellow_name "^3Yellow ^2(v Green)";
+		green_name "^2Green ^3(v Yellow)";
+		red_limit "1";
+		blue_limit "1";
+		yellow_limit "1";
+		green_limit "1";
+		novote "1";
+}
+	gameindexDef 4 {
+		longname	"AllDuel ADuel and Duel1";
+		mapinfo		"^1Game Mode: ^3Duel\n^7One Duel1 arena and one Advanced Duel arena.  Health and armor are displayed upon kill.";
+		red_name "^1Red ^4(v Blue)";
+		blue_name "^4Blue ^1(v Red)";
+		yellow_name "^3Yellow ^2(v Green)";
+		green_name "^2Green ^3(v Yellow)";
+		novote "1";
+	}
+}

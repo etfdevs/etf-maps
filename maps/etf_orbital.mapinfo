@@ -1,0 +1,30 @@
+mapinfo {
+	map   "etf_orbital";
+	longname  "Orbital";
+	type   "etf";
+	gameindices "1,2,3,4";
+
+	gameindexDef 1 {
+		longname	"Orbital Capture & Hold";
+		mapinfo		"^1Game Mode: ^3Capture and Hold\n^76-10 Players per team.\nClaim the four capture points dotted around the map to receive team points. The ^3size of the capture point^7 determines the number of points awarded every 3 seconds.";
+
+	}
+
+	gameindexDef 2 {
+		longname  "Orbital 1-Flag CTF";
+		mapinfo "^1Game Mode: ^3One Flag Capture The Flag\n^75-7 players per team\nGrab the flag in the midfield hangar and capture it in your enemy's fanroom.";
+
+	}
+	gameindexDef 3 {
+		longname  "Orbital Reverse CTF";
+		mapinfo "^1Game Mode: ^3Reverse Capture The Flag\n^75-10 players per team\nTake your flag from your fanroom and capture it in your enemy's fanroom";
+
+	}
+	// -1- Capture The Flag
+	gameindexDef 4 {
+		longname  "Orbital Advanced CTF";
+		mapinfo "^1Game Mode: ^3Capture The Flag\n^75-10 players per team\nGrab the enemy's flag from their fanroom and capture in the midfield hangar.";
+
+	}
+
+}

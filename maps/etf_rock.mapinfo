@@ -1,0 +1,12 @@
+mapinfo {
+	map		"etf_rock";
+	longname	"Rock";
+	type		"etf";
+	gameindices	"1";
+	
+	gameindexDef 1 {
+		longname	"Rock CTF";
+		mapinfo		"^1Game Mode: ^3Capture The Flag\n^75-9 players per team.\nSteal the enemy keycard from their office and take it to ^5their^7 gas chamber for 15 team points, then watch everyone scramble for the gas masks before they're gassed.\nProtect your generator from enemy damage. If they destroy it, they'll receive 5 team points and another entry to gas chamber.\n^2HELP PAGE: http://www.etfgame.com/rock";
+	}
+}
+

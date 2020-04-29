@@ -1,0 +1,12 @@
+mapinfo {
+	map		"gametype_assault_demo";
+	longname	"Assault: Demo";
+	type		"etf";
+	gameindices	"1";
+	gameindexDef 1 {
+		longname	"Assault: Demo";
+		mapinfo		"^1Game Mode: ^3Assault\n^7Each team takes turns attacking and defending the base.  \n\n\n^4Blue ^7is offense by default.\n^1Red ^7 is defense by default.";
+
+	}
+}
+

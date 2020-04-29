@@ -1,0 +1,13 @@
+mapinfo {
+	map 		"etf_bdduel1";
+	longname 	"jRAD's Duel";
+	type 		"etf";
+	gameindices	"1";
+	
+	gameindexDef 1 {
+		longname 	"jRAD's Duel";
+		mapinfo	"2 players\nTest your skills against another player in a 1v1 fight.";
+		blue_limit "1";
+		red_limit "1";
+	}
+}

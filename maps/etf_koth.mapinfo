@@ -1,0 +1,12 @@
+mapinfo {
+	map 		"etf_koth";
+	longname 	"King of the Hill";
+	type 		"etf";
+	gameindices	"1";
+	
+	
+	gameindexDef 1 {
+		longname 	"King of the Hill";
+		mapinfo	"Defend the Hill!";
+	}
+}

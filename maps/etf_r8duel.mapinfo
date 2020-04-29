@@ -1,0 +1,13 @@
+mapinfo {
+	map 		"etf_r8duel";
+	longname 	"Rocket 8's Duel";
+	type 		"etf";
+	gameindices	"1";
+	
+	atmosphere "T=RAIN,B=5 10,C=0.5,G=0.5 2,BV=0,GV=0 100,W=1 2, S=0 0";
+	
+	gameindexDef 1 {
+		longname 	"Rocket 8's Duel";
+		mapinfo	"2 players\nTest your skills against another player in a 1v1 fight.";
+	}
+}

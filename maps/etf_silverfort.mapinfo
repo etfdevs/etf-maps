@@ -1,0 +1,12 @@
+mapinfo {	
+	map		"etf_silverfort";
+	longname	"Silver Fort";	
+	type		"etf";			
+	gameindices	"1";	
+
+	gameindexDef 1 {
+		longname	"Silver Fort Dynamic CTF";
+		mapinfo		"^1Game Mode: ^3Dynamic Capture The Flag\n^7Upon leaving respawn your lava post is designated as the cappoint and 'charms' are activated. The enemy gets your flag from your flag chute, and then must capture at one of 3 unspecified capture points. Your cappoints are specified from the respawn. ^1Charms: ^4Quad (4 min) ^5Invis. (7 min) ^3Battlesuit (14 min). \n^2HELP PAGE: http://www.etfgame.com/silverfort";
+	 
+	}
+}

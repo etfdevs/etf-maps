@@ -1,0 +1,32 @@
+mapinfo {
+	map 		"etf_chaos";
+	longname 	"Chaos";
+	type 		"etf";
+	gameindices	"1,2,3,9";
+	
+	
+	// -1- Capture The Flag
+	gameindexDef 1 {
+		longname 	"Chaos CTF";
+		mapinfo		"^1Game Mode: ^3Capture The Flag\n^74-6 players per team.\nSteal the enemy flag and capture it in front of your base for 10 team points";
+
+	}
+		gameindexDef 2 {
+		longname 	"Chaos 1 Flag CTF";
+		mapinfo		"^1Game Mode: ^3One Flag Capture The Flag\n^74-6 players per team.\nGrab the flag on the middle bridge and capture it in your enemy's flagroom";
+
+	}
+	gameindexDef 3 {
+		longname 	"Chaos Reverse CTF";
+		mapinfo		"^1Game Mode: ^3Reverse Capture The Flag\n^74-6 players per team.\nTake your flag from its stand and capture it in your enemy's flagroom";
+
+	}
+	gameindexDef 9 {
+		longname	"Chaos Fast Caps";
+		mapinfo		"^1Game Mode: ^3Fast Caps\n^71 Player.\nYou spawn as red team by the timer flag. Take the flag inside the enemy basement as fast as you can!";
+		red_limit "1";
+		novote "1";
+	}
+
+
+}

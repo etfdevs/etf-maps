@@ -1,0 +1,137 @@
+speaker {
+origin -276 1872 553
+noise "sound/world/wind4.wav"
+}
+
+speaker {
+origin -27 1879 582
+noise "sound/world/wind4.wav"
+}
+
+speaker {
+origin 18 2852 622
+noise "sound/world/wind4.wav"
+}
+
+speaker {
+origin 37 -1875 581
+noise "sound/world/wind4.wav"
+}
+
+speaker {
+origin 15 -2796 691
+noise "sound/world/wind4.wav"
+}
+
+speaker {
+origin 1192 -2870 178
+noise "sound/world/wind4.wav"
+}
+
+speaker {
+origin -1186 2891 201
+noise "sound/world/wind4.wav"
+}
+
+speaker {
+origin -856 786 -158
+noise "sound/world/underwater2.wav"
+}
+
+speaker {
+origin 1517 1761 448
+noise "sound/world/wind4.wav"
+}
+
+speaker {
+origin -1551 1771 448
+noise "sound/world/wind4.wav"
+}
+
+speaker {
+origin -1530 1766 70
+noise "sound/world/hum9.wav"
+}
+
+speaker {
+origin 1526 1761 46
+noise "sound/world/hum9.wav"
+}
+
+speaker {
+origin 1515 -1735 66
+noise "sound/world/hum9.wav"
+}
+
+speaker {
+origin -1493 -1755 53
+noise "sound/world/hum9.wav"
+}
+
+speaker {
+origin -1504 -1754 429
+noise "sound/world/wind4.wav"
+}
+
+speaker {
+origin 1480 -1758 434
+noise "sound/world/wind4.wav"
+}
+
+speaker {
+origin -18 -3708 109
+noise "sound/world/hum6.wav"
+}
+
+speaker {
+origin 21 3713 102
+noise "sound/world/hum6.wav"
+}
+
+speaker {
+origin 897 787 -137
+noise "sound/world/underwater2.wav"
+}
+
+speaker {
+origin -912 -791 -165
+noise "sound/world/underwater2.wav"
+}
+
+speaker {
+origin -1272 12 20
+noise "sound/world/sewers2.wav"
+}
+
+speaker {
+origin 1296 -11 33
+noise "sound/world/sewers2.wav"
+}
+
+speaker {
+origin -13 2743 737
+noise "sound/world/thunder2.wav"
+wait 35
+random 5
+}
+
+speaker {
+origin 2 765 254
+noise "sound/world/thunder4.wav"
+wait 25
+random 5
+}
+
+speaker {
+origin 10 -721 267
+noise "sound/world/thunder5.wav"
+wait 25
+random 5
+}
+
+speaker {
+origin 22 -2701 749
+noise "sound/world/thunder3.wav"
+wait 35
+random 5
+}

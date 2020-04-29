@@ -1,0 +1,28 @@
+mapinfo {
+	map		"etf_mach";
+	longname	"Mach";
+	type		"etf";
+	gameindices	"1,2,3,9";
+	
+	maxplayers 12;
+	
+	gameindexDef 1 {
+		longname	"Mach CTF";
+		mapinfo		"^1Game Mode: ^3Capture The Flag\n^73-6 players per team.\nSteal the enemy flag and capture it at your own flag for 10 team points.";
+	}
+	gameindexDef 2 {
+		longname	"Mach 1-flag CTF";
+		mapinfo		"^1Game Mode: ^3One Flag Capture The Flag\n^73-6 players per team.\nSteal the flag from the center of the map and capture it at your enemy's flag stand for 10 team points.";
+	}
+	gameindexDef 3 {
+		longname	"Mach Reverse CTF";
+		mapinfo		"^1Game Mode: ^3Reverse Capture The Flag\n^73-6 players per team.\nTake your flag to the enemy flag stand to capture it for 10 team points.";
+	}
+	gameindexDef 9 {
+		longname	"Mach Fast Caps";
+		mapinfo		"^1Game Mode: ^3Fast Caps\n^71 Player.\nYou spawn as red team by the timer flag. Take the flag to the opposite capture point as fast as you can!";
+		red_limit "1";
+		novote "1";
+	}
+}
+

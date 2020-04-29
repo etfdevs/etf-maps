@@ -1,0 +1,2117 @@
+// entity 0
+{
+"classname" "worldspawn"
+"ambient" "2"
+"_mingridlight" "48"
+// brush 0
+{
+( -640 712 8 ) ( 1024 712 8 ) ( -640 -640 8 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( -640 712 8 ) ( -640 -640 8 ) ( -640 -640 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 1024 704 8 ) ( -640 704 8 ) ( -640 704 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 1024 -640 8 ) ( 1024 712 8 ) ( 1024 712 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( -640 -640 8 ) ( 1024 -640 8 ) ( 1024 -640 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 1024 712 0 ) ( -640 712 0 ) ( -640 -640 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 1
+{
+( -648 712 696 ) ( -648 -640 696 ) ( 1016 712 696 ) amethyst7/desertsky/desertsky_skybox 0 0 0 0.500000 0.500000 0 0 0
+( -640 712 8 ) ( -640 -640 8 ) ( -640 -640 0 ) amethyst7/desertsky/desertsky_skybox 0 0 0 0.500000 0.500000 0 0 0
+( 1024 704 8 ) ( -640 704 8 ) ( -640 704 0 ) amethyst7/desertsky/desertsky_skybox 0 0 0 0.500000 0.500000 0 0 0
+( 1024 -640 8 ) ( 1024 712 8 ) ( 1024 712 0 ) amethyst7/desertsky/desertsky_skybox 0 0 0 0.500000 0.500000 0 0 0
+( -640 -640 8 ) ( 1024 -640 8 ) ( 1024 -640 0 ) amethyst7/desertsky/desertsky_skybox 0 0 0 0.500000 0.500000 0 0 0
+( -648 -640 704 ) ( -648 712 704 ) ( 1016 712 704 ) amethyst7/desertsky/desertsky_skybox 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 2
+{
+( 1024 -632 8 ) ( -640 -632 8 ) ( 1024 -632 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( -640 712 8 ) ( -640 -640 8 ) ( -640 -640 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 1024 -640 8 ) ( 1024 712 8 ) ( 1024 712 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( -640 -640 8 ) ( 1024 -640 8 ) ( 1024 -640 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( -648 -640 640 ) ( -648 712 640 ) ( 1016 712 640 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 1024 712 0 ) ( -640 712 0 ) ( -640 -640 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 3
+{
+( 1016 712 -56 ) ( 1016 -640 -56 ) ( 1016 712 -64 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 1024 704 8 ) ( -640 704 8 ) ( -640 704 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 1024 -640 8 ) ( 1024 712 8 ) ( 1024 712 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( -640 -640 8 ) ( 1024 -640 8 ) ( 1024 -640 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( -648 -640 640 ) ( -648 712 640 ) ( 1016 712 640 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 1024 712 0 ) ( -640 712 0 ) ( -640 -640 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 4
+{
+( -640 696 8 ) ( 1024 696 8 ) ( -640 696 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( -640 712 8 ) ( -640 -640 8 ) ( -640 -640 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 1024 704 8 ) ( -640 704 8 ) ( -640 704 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 1024 -640 8 ) ( 1024 712 8 ) ( 1024 712 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( -648 -640 640 ) ( -648 712 640 ) ( 1016 712 640 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 1024 712 0 ) ( -640 712 0 ) ( -640 -640 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 5
+{
+( -632 -640 -56 ) ( -632 712 -56 ) ( -632 -640 -64 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( -640 712 8 ) ( -640 -640 8 ) ( -640 -640 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 1024 704 8 ) ( -640 704 8 ) ( -640 704 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( -640 -640 8 ) ( 1024 -640 8 ) ( 1024 -640 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( -648 -640 640 ) ( -648 712 640 ) ( 1016 712 640 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 1024 712 0 ) ( -640 712 0 ) ( -640 -640 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 6
+{
+( -632 160 704 ) ( -632 128 704 ) ( -632 128 0 ) etf_excel/cretebase 128 0 0 0.500000 0.500000 0 0 0
+( -384 160 704 ) ( -632 160 704 ) ( -632 160 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -384 128 704 ) ( -384 160 704 ) ( -384 160 0 ) etf_excel/cretebase 128 0 0 0.500000 0.500000 0 0 0
+( -632 128 704 ) ( -384 128 704 ) ( -384 128 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -600 128 256 ) ( -600 160 256 ) ( -352 160 256 ) etf_excel/cretebase 0 -128 0 0.500000 0.500000 0 0 0
+( -384 160 0 ) ( -632 160 0 ) ( -632 128 0 ) etf_excel/cretebase 0 -128 0 0.500000 0.500000 0 0 0
+}
+// brush 7
+{
+( -384 448 0 ) ( -384 696 0 ) ( -416 696 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -416 664 256 ) ( -384 664 256 ) ( -384 416 256 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -416 696 704 ) ( -416 448 704 ) ( -416 448 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -416 448 704 ) ( -384 448 704 ) ( -384 448 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -384 448 704 ) ( -384 696 704 ) ( -384 696 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -384 696 704 ) ( -416 696 704 ) ( -416 696 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 8
+{
+( -416 696 720 ) ( -448 696 720 ) ( -448 696 16 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -384 448 720 ) ( -384 696 720 ) ( -384 696 16 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -472 128 720 ) ( -440 128 720 ) ( -440 128 16 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -632 704 720 ) ( -632 456 720 ) ( -632 456 16 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -456 664 288 ) ( -424 664 288 ) ( -424 416 288 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -416 448 256 ) ( -416 696 256 ) ( -448 696 256 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 9
+{
+( -408 384 248 ) ( -408 632 248 ) ( -440 632 248 ) etf_dissect/light_6k -16 -16 0 0.500000 0.500000 0 0 0
+( -448 600 256 ) ( -416 600 256 ) ( -416 352 256 ) etf_excel/cretebase -16 -128 0 0.500000 0.500000 0 0 0
+( -536 640 712 ) ( -536 392 712 ) ( -536 392 8 ) etf_excel/cretebase 128 -16 0 0.500000 0.500000 0 0 0
+( -440 600 712 ) ( -408 600 712 ) ( -408 600 8 ) etf_excel/cretebase -16 -16 0 0.500000 0.500000 0 0 0
+( -504 376 712 ) ( -504 624 712 ) ( -504 624 8 ) etf_excel/cretebase 128 -16 0 0.500000 0.500000 0 0 0
+( -416 632 712 ) ( -448 632 712 ) ( -448 632 8 ) etf_excel/cretebase -16 -16 0 0.500000 0.500000 0 0 0
+}
+// brush 10
+{
+( -416 440 712 ) ( -448 440 712 ) ( -448 440 8 ) etf_excel/cretebase -16 -16 0 0.500000 0.500000 0 0 0
+( -504 184 712 ) ( -504 432 712 ) ( -504 432 8 ) etf_excel/cretebase 0 -16 0 0.500000 0.500000 0 0 0
+( -440 408 712 ) ( -408 408 712 ) ( -408 408 8 ) etf_excel/cretebase -16 -16 0 0.500000 0.500000 0 0 0
+( -536 448 712 ) ( -536 200 712 ) ( -536 200 8 ) etf_excel/cretebase 0 -16 0 0.500000 0.500000 0 0 0
+( -448 408 256 ) ( -416 408 256 ) ( -416 160 256 ) etf_excel/cretebase -16 0 0 0.500000 0.500000 0 0 0
+( -408 192 248 ) ( -408 440 248 ) ( -440 440 248 ) etf_dissect/light_6k -16 -16 0 0.500000 0.500000 0 0 0
+}
+// brush 11
+{
+( -400 8 248 ) ( -400 256 248 ) ( -432 256 248 ) etf_dissect/light_6k -32 0 0 0.500000 0.500000 0 0 0
+( -440 224 256 ) ( -408 224 256 ) ( -408 -24 256 ) etf_excel/cretebase -32 -112 0 0.500000 0.500000 0 0 0
+( -528 264 712 ) ( -528 16 712 ) ( -528 16 8 ) etf_excel/cretebase 112 -16 0 0.500000 0.500000 0 0 0
+( -432 224 712 ) ( -400 224 712 ) ( -400 224 8 ) etf_excel/cretebase -32 -16 0 0.500000 0.500000 0 0 0
+( -496 0 712 ) ( -496 248 712 ) ( -496 248 8 ) etf_excel/cretebase 112 -16 0 0.500000 0.500000 0 0 0
+( -408 256 712 ) ( -440 256 712 ) ( -440 256 8 ) etf_excel/cretebase -32 -16 0 0.500000 0.500000 0 0 0
+}
+// brush 12
+{
+( 640 696 704 ) ( 640 624 704 ) ( 640 624 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 704 696 704 ) ( 640 696 704 ) ( 640 696 0 ) etf_excel/cretebase2 -128 0 0 0.500000 0.500000 0 0 0
+( 704 624 704 ) ( 704 696 704 ) ( 704 696 0 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 664 -632 704 ) ( 728 -632 704 ) ( 728 -632 0 ) etf_excel/cretebase2 -128 0 0 0.500000 0.500000 0 0 0
+( 640 624 640 ) ( 640 696 640 ) ( 704 696 640 ) etf_excel/cretebase2 -128 0 0 0.500000 0.500000 0 0 0
+( 688 696 256 ) ( 624 696 256 ) ( 624 624 256 ) etf_excel/cretebase2 -128 0 0 0.500000 0.500000 0 0 0
+}
+// brush 13
+{
+( 688 696 8 ) ( 624 696 8 ) ( 624 624 8 ) etf_excel/cretebase2 -128 0 0 0.500000 0.500000 0 0 0
+( 624 624 256 ) ( 624 696 256 ) ( 688 696 256 ) etf_excel/cretebase2 -128 0 0 0.500000 0.500000 0 0 0
+( 624 384 456 ) ( 688 384 456 ) ( 688 384 -248 ) etf_excel/cretebase2 -128 0 0 0.500000 0.500000 0 0 0
+( 704 624 456 ) ( 704 696 456 ) ( 704 696 -248 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+( 704 696 456 ) ( 640 696 456 ) ( 640 696 -248 ) etf_excel/cretebase2 -128 0 0 0.500000 0.500000 0 0 0
+( 640 696 456 ) ( 640 624 456 ) ( 640 624 -248 ) etf_excel/cretebase2 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 14
+{
+( 640 192 456 ) ( 640 120 456 ) ( 640 120 -248 ) etf_excel/cretebase2 -16 0 0 0.500000 0.500000 0 0 0
+( 704 192 456 ) ( 640 192 456 ) ( 640 192 -248 ) etf_excel/cretebase2 -128 0 0 0.500000 0.500000 0 0 0
+( 704 120 456 ) ( 704 192 456 ) ( 704 192 -248 ) etf_excel/cretebase2 -16 0 0 0.500000 0.500000 0 0 0
+( 624 -128 456 ) ( 688 -128 456 ) ( 688 -128 -248 ) etf_excel/cretebase2 -128 0 0 0.500000 0.500000 0 0 0
+( 624 120 256 ) ( 624 192 256 ) ( 688 192 256 ) etf_excel/cretebase2 -128 16 0 0.500000 0.500000 0 0 0
+( 688 192 8 ) ( 624 192 8 ) ( 624 120 8 ) etf_excel/cretebase2 -128 16 0 0.500000 0.500000 0 0 0
+}
+// brush 15
+{
+( 688 -320 8 ) ( 624 -320 8 ) ( 624 -392 8 ) etf_excel/cretebase2 -128 16 0 0.500000 0.500000 0 0 0
+( 624 -392 256 ) ( 624 -320 256 ) ( 688 -320 256 ) etf_excel/cretebase2 -128 16 0 0.500000 0.500000 0 0 0
+( 624 -632 456 ) ( 688 -632 456 ) ( 688 -632 -248 ) etf_excel/cretebase2 -128 0 0 0.500000 0.500000 0 0 0
+( 704 -392 456 ) ( 704 -320 456 ) ( 704 -320 -248 ) etf_excel/cretebase2 -16 0 0 0.500000 0.500000 0 0 0
+( 704 -320 456 ) ( 640 -320 456 ) ( 640 -320 -248 ) etf_excel/cretebase2 -128 0 0 0.500000 0.500000 0 0 0
+( 640 -320 456 ) ( 640 -392 456 ) ( 640 -392 -248 ) etf_excel/cretebase2 -16 0 0 0.500000 0.500000 0 0 0
+}
+// brush 16
+{
+( -384 192 704 ) ( -416 192 704 ) ( -416 192 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -384 160 704 ) ( -384 408 704 ) ( -384 408 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -416 160 704 ) ( -384 160 704 ) ( -384 160 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -416 408 704 ) ( -416 160 704 ) ( -416 160 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -416 376 256 ) ( -384 376 256 ) ( -384 128 256 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -384 160 0 ) ( -384 408 0 ) ( -416 408 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 17
+{
+( -376 192 224 ) ( -376 440 224 ) ( -408 440 224 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -416 408 256 ) ( -384 408 256 ) ( -384 160 256 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -416 440 704 ) ( -416 192 704 ) ( -416 192 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -416 192 704 ) ( -384 192 704 ) ( -384 192 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -384 192 704 ) ( -384 440 704 ) ( -384 440 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -392 448 704 ) ( -424 448 704 ) ( -424 448 0 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 18
+{
+( 1024 712 640 ) ( -640 712 640 ) ( -640 -640 640 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -648 -640 704 ) ( -648 712 704 ) ( 1016 712 704 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -640 -640 72 ) ( 1024 -640 72 ) ( 1024 -640 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 1024 -640 72 ) ( 1024 712 72 ) ( 1024 712 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -640 712 72 ) ( -640 -640 72 ) ( -640 -640 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 1024 -632 72 ) ( -640 -632 72 ) ( 1024 -632 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 19
+{
+( 1024 712 640 ) ( -640 712 640 ) ( -640 -640 640 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -648 -640 704 ) ( -648 712 704 ) ( 1016 712 704 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -640 -640 72 ) ( 1024 -640 72 ) ( 1024 -640 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 1024 -640 72 ) ( 1024 712 72 ) ( 1024 712 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 1024 704 72 ) ( -640 704 72 ) ( -640 704 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 1016 712 584 ) ( 1016 -640 584 ) ( 1016 712 576 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 20
+{
+( 1024 712 640 ) ( -640 712 640 ) ( -640 -640 640 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -648 -640 704 ) ( -648 712 704 ) ( 1016 712 704 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 1024 -640 72 ) ( 1024 712 72 ) ( 1024 712 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 1024 704 72 ) ( -640 704 72 ) ( -640 704 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -640 712 72 ) ( -640 -640 72 ) ( -640 -640 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -640 696 72 ) ( 1024 696 72 ) ( -640 696 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 21
+{
+( 1024 712 640 ) ( -640 712 640 ) ( -640 -640 640 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -648 -640 704 ) ( -648 712 704 ) ( 1016 712 704 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -640 -640 72 ) ( 1024 -640 72 ) ( 1024 -640 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 1024 704 72 ) ( -640 704 72 ) ( -640 704 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -640 712 72 ) ( -640 -640 72 ) ( -640 -640 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( -632 -640 584 ) ( -632 712 584 ) ( -632 -640 576 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 22
+{
+( 688 696 640 ) ( 624 696 640 ) ( 624 624 640 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 640 624 704 ) ( 640 696 704 ) ( 704 696 704 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 664 -632 768 ) ( 728 -632 768 ) ( 728 -632 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 704 624 768 ) ( 704 696 768 ) ( 704 696 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 704 696 768 ) ( 640 696 768 ) ( 640 696 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 640 696 768 ) ( 640 624 768 ) ( 640 624 64 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 23
+{
+( 728 24 16 ) ( 728 16 16 ) ( 728 16 8 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 768 24 16 ) ( 728 24 16 ) ( 728 24 8 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 768 16 16 ) ( 768 24 16 ) ( 768 24 8 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 728 16 16 ) ( 768 16 16 ) ( 768 16 8 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 728 16 16 ) ( 728 24 16 ) ( 768 24 16 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 768 24 8 ) ( 728 24 8 ) ( 728 16 8 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+}
+// brush 24
+{
+( 768 -8 8 ) ( 728 -8 8 ) ( 728 -16 8 ) etf_excel/cretebase 0 -64 0 0.500000 0.500000 0 0 0
+( 728 -16 16 ) ( 728 -8 16 ) ( 768 -8 16 ) etf_excel/cretebase 0 -64 0 0.500000 0.500000 0 0 0
+( 728 -16 16 ) ( 768 -16 16 ) ( 768 -16 8 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 768 -16 16 ) ( 768 -8 16 ) ( 768 -8 8 ) etf_excel/cretebase 64 0 0 0.500000 0.500000 0 0 0
+( 768 -8 16 ) ( 728 -8 16 ) ( 728 -8 8 ) etf_excel/cretebase 0 0 0 0.500000 0.500000 0 0 0
+( 728 -8 16 ) ( 728 -16 16 ) ( 728 -16 8 ) etf_excel/cretebase 64 0 0 0.500000 0.500000 0 0 0
+}
+// brush 25
+{
+( 736 16 16 ) ( 728 16 16 ) ( 728 16 8 ) etf_excel/cretebase -144 0 0 0.500000 0.500000 0 0 0
+( 736 -24 16 ) ( 736 16 16 ) ( 736 16 8 ) etf_excel/cretebase 208 0 -180 0.500000 -0.500000 0 0 0
+( 728 -8 16 ) ( 736 -8 16 ) ( 736 -8 8 ) etf_excel/cretebase -144 0 0 0.500000 0.500000 0 0 0
+( 728 16 16 ) ( 728 -24 16 ) ( 728 -24 8 ) etf_excel/cretebase 208 0 -180 0.500000 -0.500000 0 0 0
+( 728 16 16 ) ( 736 16 16 ) ( 736 -24 16 ) etf_excel/cretebase 208 144 -90 0.500000 0.500000 0 0 0
+( 736 -24 8 ) ( 736 16 8 ) ( 728 16 8 ) etf_excel/cretebase 208 144 -90 0.500000 0.500000 0 0 0
+}
+// brush 26
+{
+( 768 -24 8 ) ( 768 16 8 ) ( 760 16 8 ) etf_excel/cretebase 208 208 -90 0.500000 0.500000 0 0 0
+( 760 16 16 ) ( 768 16 16 ) ( 768 -24 16 ) etf_excel/cretebase 208 208 -90 0.500000 0.500000 0 0 0
+( 760 16 16 ) ( 760 -24 16 ) ( 760 -24 8 ) etf_excel/cretebase 208 0 -180 0.500000 -0.500000 0 0 0
+( 760 -8 16 ) ( 768 -8 16 ) ( 768 -8 8 ) etf_excel/cretebase -208 0 0 0.500000 0.500000 0 0 0
+( 768 -24 16 ) ( 768 16 16 ) ( 768 16 8 ) etf_excel/cretebase 208 0 -180 0.500000 -0.500000 0 0 0
+( 768 16 16 ) ( 760 16 16 ) ( 760 16 8 ) etf_excel/cretebase -208 0 0 0.500000 0.500000 0 0 0
+}
+// brush 27
+{
+( 736 0 16 ) ( 736 -8 16 ) ( 736 -8 8 ) common/nodraw 0 0 0 0.500000 0.500000 0 13 0
+( 776 16 16 ) ( 736 16 16 ) ( 736 16 8 ) common/nodraw 0 0 0 0.500000 0.500000 0 13 0
+( 760 -8 16 ) ( 760 0 16 ) ( 760 0 8 ) common/nodraw 0 0 0 0.500000 0.500000 0 13 0
+( 736 -8 16 ) ( 776 -8 16 ) ( 776 -8 8 ) common/nodraw 0 0 0 0.500000 0.500000 0 13 0
+( 736 -8 16 ) ( 736 0 16 ) ( 776 0 16 ) etf_orbital/yellowlaser 0 0 0 0.500000 0.500000 0 265 0
+( 776 0 8 ) ( 736 0 8 ) ( 736 -8 8 ) common/nodraw 0 0 0 0.500000 0.500000 0 13 0
+}
+// brush 28
+{
+( -296 -1040 -128 ) ( 584 -1040 -128 ) ( -296 -2320 -128 ) common/caulk 8 -32 0 1.800000 1.800000 0 0 0
+( 584 -1040 -144 ) ( -296 -1040 -144 ) ( -296 -2320 -144 ) common/caulk 8 -32 0 1.800000 1.800000 0 0 0
+( -296 -2320 -80 ) ( 584 -2320 -80 ) ( 584 -2320 -96 ) common/caulk 8 0 0 1.800000 1.800000 0 0 0
+( 600 -2320 -80 ) ( 600 -1040 -80 ) ( 600 -1040 -96 ) common/caulk 32 0 0 1.800000 1.800000 0 0 0
+( 584 -1056 -80 ) ( -296 -1056 -80 ) ( -296 -1056 -96 ) common/caulk 8 0 0 1.800000 1.800000 0 0 0
+( -232 -1056 -80 ) ( -232 -2336 -80 ) ( -232 -2336 -96 ) common/caulk 32 0 0 1.800000 1.800000 0 0 0
+}
+// brush 29
+{
+( -296 -1040 -64 ) ( -296 -2320 -64 ) ( 584 -1040 -64 ) common/caulk 8 -32 0 1.800000 1.800000 0 0 0
+( -296 -2320 -48 ) ( -296 -1040 -48 ) ( 584 -1040 -48 ) common/caulk 8 -32 0 1.800000 1.800000 0 0 0
+( -296 -2320 -80 ) ( 584 -2320 -80 ) ( 584 -2320 -96 ) common/caulk 8 0 0 1.800000 1.800000 0 0 0
+( 600 -2320 -80 ) ( 600 -1040 -80 ) ( 600 -1040 -96 ) common/caulk 32 0 0 1.800000 1.800000 0 0 0
+( 584 -1056 -80 ) ( -296 -1056 -80 ) ( -296 -1056 -96 ) common/caulk 8 0 0 1.800000 1.800000 0 0 0
+( -232 -1056 -80 ) ( -232 -2336 -80 ) ( -232 -2336 -96 ) common/caulk 32 0 0 1.800000 1.800000 0 0 0
+}
+// brush 30
+{
+( 584 -2304 -80 ) ( -296 -2304 -80 ) ( 584 -2304 -96 ) common/caulk 8 0 0 1.800000 1.800000 0 0 0
+( 584 -1040 -144 ) ( -296 -1040 -144 ) ( -296 -2320 -144 ) common/caulk 8 -32 0 1.800000 1.800000 0 0 0
+( -296 -2320 -48 ) ( -296 -1040 -48 ) ( 584 -1040 -48 ) common/caulk 8 -32 0 1.800000 1.800000 0 0 0
+( -296 -2320 -80 ) ( 584 -2320 -80 ) ( 584 -2320 -96 ) common/caulk 8 0 0 1.800000 1.800000 0 0 0
+( 600 -2320 -80 ) ( 600 -1040 -80 ) ( 600 -1040 -96 ) common/caulk 32 0 0 1.800000 1.800000 0 0 0
+( -232 -1056 -80 ) ( -232 -2336 -80 ) ( -232 -2336 -96 ) common/caulk 32 0 0 1.800000 1.800000 0 0 0
+}
+// brush 31
+{
+( 584 -1040 -80 ) ( 584 -2320 -80 ) ( 584 -1040 -96 ) common/caulk 32 0 0 1.800000 1.800000 0 0 0
+( 584 -1040 -144 ) ( -296 -1040 -144 ) ( -296 -2320 -144 ) common/caulk 8 -32 0 1.800000 1.800000 0 0 0
+( -296 -2320 -48 ) ( -296 -1040 -48 ) ( 584 -1040 -48 ) common/caulk 8 -32 0 1.800000 1.800000 0 0 0
+( -296 -2320 -80 ) ( 584 -2320 -80 ) ( 584 -2320 -96 ) common/caulk 8 0 0 1.800000 1.800000 0 0 0
+( 600 -2320 -80 ) ( 600 -1040 -80 ) ( 600 -1040 -96 ) common/caulk 32 0 0 1.800000 1.800000 0 0 0
+( 584 -1056 -80 ) ( -296 -1056 -80 ) ( -296 -1056 -96 ) common/caulk 8 0 0 1.800000 1.800000 0 0 0
+}
+// brush 32
+{
+( -296 -1072 -80 ) ( 584 -1072 -80 ) ( -296 -1072 -96 ) common/caulk 8 0 0 1.800000 1.800000 0 0 0
+( 584 -1040 -144 ) ( -296 -1040 -144 ) ( -296 -2320 -144 ) common/caulk 8 -32 0 1.800000 1.800000 0 0 0
+( -296 -2320 -48 ) ( -296 -1040 -48 ) ( 584 -1040 -48 ) common/caulk 8 -32 0 1.800000 1.800000 0 0 0
+( 600 -2320 -80 ) ( 600 -1040 -80 ) ( 600 -1040 -96 ) common/caulk 32 0 0 1.800000 1.800000 0 0 0
+( 584 -1056 -80 ) ( -296 -1056 -80 ) ( -296 -1056 -96 ) common/caulk 8 0 0 1.800000 1.800000 0 0 0
+( -232 -1056 -80 ) ( -232 -2336 -80 ) ( -232 -2336 -96 ) common/caulk 32 0 0 1.800000 1.800000 0 0 0
+}
+// brush 33
+{
+( -216 -2336 -80 ) ( -216 -1056 -80 ) ( -216 -2336 -96 ) common/caulk 32 0 0 1.800000 1.800000 0 0 0
+( 584 -1040 -144 ) ( -296 -1040 -144 ) ( -296 -2320 -144 ) common/caulk 8 -32 0 1.800000 1.800000 0 0 0
+( -296 -2320 -48 ) ( -296 -1040 -48 ) ( 584 -1040 -48 ) common/caulk 8 -32 0 1.800000 1.800000 0 0 0
+( -296 -2320 -80 ) ( 584 -2320 -80 ) ( 584 -2320 -96 ) common/caulk 8 0 0 1.800000 1.800000 0 0 0
+( 584 -1056 -80 ) ( -296 -1056 -80 ) ( -296 -1056 -96 ) common/caulk 8 0 0 1.800000 1.800000 0 0 0
+( -232 -1056 -80 ) ( -232 -2336 -80 ) ( -232 -2336 -96 ) common/caulk 32 0 0 1.800000 1.800000 0 0 0
+}
+// brush 34
+{
+( 712 376 16 ) ( 712 376 264 ) ( 712 408 264 ) etf_dissect/light_6k 48 16 -180 0.500000 -0.500000 0 0 0
+( 704 416 216 ) ( 704 384 216 ) ( 704 384 -32 ) etf_excel/cretebase 176 160 -180 0.500000 -0.500000 0 0 0
+( 248 504 272 ) ( 248 504 24 ) ( 952 504 24 ) etf_excel/cretebase -160 111 90 0.500000 0.500000 0 0 0
+( 248 408 232 ) ( 248 376 232 ) ( 952 376 232 ) etf_excel/cretebase 175 112 -90 0.500000 -0.500000 0 0 0
+( 248 472 8 ) ( 248 472 256 ) ( 952 472 256 ) etf_excel/cretebase -160 111 90 0.500000 0.500000 0 0 0
+( 248 384 264 ) ( 248 416 264 ) ( 952 416 264 ) etf_excel/cretebase 175 112 -90 0.500000 -0.500000 0 0 0
+}
+// brush 35
+{
+( 712 376 168 ) ( 712 376 416 ) ( 712 408 416 ) etf_dissect/light_6k 48 0 -180 0.500000 -0.500000 0 0 0
+( 704 416 368 ) ( 704 384 368 ) ( 704 384 120 ) etf_excel/cretebase 176 208 -180 0.500000 -0.500000 0 0 0
+( 248 504 424 ) ( 248 504 176 ) ( 952 504 176 ) etf_excel/cretebase -208 111 90 0.500000 0.500000 0 0 0
+( 248 408 384 ) ( 248 376 384 ) ( 952 376 384 ) etf_excel/cretebase 176 111 -90 0.500000 -0.500000 0 0 0
+( 248 472 160 ) ( 248 472 408 ) ( 952 472 408 ) etf_excel/cretebase -208 111 90 0.500000 0.500000 0 0 0
+( 248 384 416 ) ( 248 416 416 ) ( 952 416 416 ) etf_excel/cretebase 176 111 -90 0.500000 -0.500000 0 0 0
+}
+// brush 36
+{
+( 712 376 -128 ) ( 712 376 120 ) ( 712 408 120 ) etf_dissect/light_6k 48 48 -180 0.500000 -0.500000 0 0 0
+( 704 416 72 ) ( 704 384 72 ) ( 704 384 -176 ) etf_excel/cretebase 176 128 -180 0.500000 -0.500000 0 0 0
+( 248 504 128 ) ( 248 504 -120 ) ( 952 504 -120 ) etf_excel/cretebase -128 111 90 0.500000 0.500000 0 0 0
+( 248 408 88 ) ( 248 376 88 ) ( 952 376 88 ) etf_excel/cretebase 176 111 -90 0.500000 -0.500000 0 0 0
+( 248 472 -136 ) ( 248 472 112 ) ( 952 472 112 ) etf_excel/cretebase -128 111 90 0.500000 0.500000 0 0 0
+( 248 384 120 ) ( 248 416 120 ) ( 952 416 120 ) etf_excel/cretebase 176 111 -90 0.500000 -0.500000 0 0 0
+}
+// brush 37
+{
+( 248 -576 264 ) ( 248 -544 264 ) ( 952 -544 264 ) etf_excel/cretebase 47 112 -90 0.500000 -0.500000 0 0 0
+( 248 -488 8 ) ( 248 -488 256 ) ( 952 -488 256 ) etf_excel/cretebase -160 111 90 0.500000 0.500000 0 0 0
+( 248 -552 232 ) ( 248 -584 232 ) ( 952 -584 232 ) etf_excel/cretebase 47 112 -90 0.500000 -0.500000 0 0 0
+( 248 -456 272 ) ( 248 -456 24 ) ( 952 -456 24 ) etf_excel/cretebase -160 111 90 0.500000 0.500000 0 0 0
+( 704 -544 216 ) ( 704 -576 216 ) ( 704 -576 -32 ) etf_excel/cretebase 48 160 -180 0.500000 -0.500000 0 0 0
+( 712 -584 16 ) ( 712 -584 264 ) ( 712 -552 264 ) etf_dissect/light_6k 48 16 -180 0.500000 -0.500000 0 0 0
+}
+// brush 38
+{
+( 248 -576 416 ) ( 248 -544 416 ) ( 952 -544 416 ) etf_excel/cretebase 48 111 -90 0.500000 -0.500000 0 0 0
+( 248 -488 160 ) ( 248 -488 408 ) ( 952 -488 408 ) etf_excel/cretebase -208 111 90 0.500000 0.500000 0 0 0
+( 248 -552 384 ) ( 248 -584 384 ) ( 952 -584 384 ) etf_excel/cretebase 48 111 -90 0.500000 -0.500000 0 0 0
+( 248 -456 424 ) ( 248 -456 176 ) ( 952 -456 176 ) etf_excel/cretebase -208 111 90 0.500000 0.500000 0 0 0
+( 704 -544 368 ) ( 704 -576 368 ) ( 704 -576 120 ) etf_excel/cretebase 48 208 -180 0.500000 -0.500000 0 0 0
+( 712 -584 168 ) ( 712 -584 416 ) ( 712 -552 416 ) etf_dissect/light_6k 48 0 -180 0.500000 -0.500000 0 0 0
+}
+// brush 39
+{
+( 248 -576 120 ) ( 248 -544 120 ) ( 952 -544 120 ) etf_excel/cretebase 48 111 -90 0.500000 -0.500000 0 0 0
+( 248 -488 -136 ) ( 248 -488 112 ) ( 952 -488 112 ) etf_excel/cretebase -128 111 90 0.500000 0.500000 0 0 0
+( 248 -552 88 ) ( 248 -584 88 ) ( 952 -584 88 ) etf_excel/cretebase 48 111 -90 0.500000 -0.500000 0 0 0
+( 248 -456 128 ) ( 248 -456 -120 ) ( 952 -456 -120 ) etf_excel/cretebase -128 111 90 0.500000 0.500000 0 0 0
+( 704 -544 72 ) ( 704 -576 72 ) ( 704 -576 -176 ) etf_excel/cretebase 48 127 -180 0.500000 -0.500000 0 0 0
+( 712 -584 -128 ) ( 712 -584 120 ) ( 712 -552 120 ) etf_dissect/light_6k 48 48 -180 0.500000 -0.500000 0 0 0
+}
+// brush 40
+{
+( 712 -112 16 ) ( 712 -112 264 ) ( 712 -80 264 ) etf_dissect/light_6k 32 15 -180 0.500000 -0.500000 0 0 0
+( 704 -72 216 ) ( 704 -104 216 ) ( 704 -104 -32 ) etf_excel/cretebase 224 160 -180 0.500000 -0.500000 0 0 0
+( 248 16 272 ) ( 248 16 24 ) ( 952 16 24 ) etf_excel/cretebase -160 111 90 0.500000 0.500000 0 0 0
+( 248 -80 232 ) ( 248 -112 232 ) ( 952 -112 232 ) etf_excel/cretebase 223 112 -90 0.500000 -0.500000 0 0 0
+( 248 -16 8 ) ( 248 -16 256 ) ( 952 -16 256 ) etf_excel/cretebase -160 111 90 0.500000 0.500000 0 0 0
+( 248 -104 264 ) ( 248 -72 264 ) ( 952 -72 264 ) etf_excel/cretebase 223 112 -90 0.500000 -0.500000 0 0 0
+}
+// brush 41
+{
+( 712 -112 168 ) ( 712 -112 416 ) ( 712 -80 416 ) etf_dissect/light_6k 32 0 -180 0.500000 -0.500000 0 0 0
+( 704 -72 368 ) ( 704 -104 368 ) ( 704 -104 120 ) etf_excel/cretebase 224 208 -180 0.500000 -0.500000 0 0 0
+( 248 16 424 ) ( 248 16 176 ) ( 952 16 176 ) etf_excel/cretebase -208 111 90 0.500000 0.500000 0 0 0
+( 248 -80 384 ) ( 248 -112 384 ) ( 952 -112 384 ) etf_excel/cretebase 224 111 -90 0.500000 -0.500000 0 0 0
+( 248 -16 160 ) ( 248 -16 408 ) ( 952 -16 408 ) etf_excel/cretebase -208 111 90 0.500000 0.500000 0 0 0
+( 248 -104 416 ) ( 248 -72 416 ) ( 952 -72 416 ) etf_excel/cretebase 224 111 -90 0.500000 -0.500000 0 0 0
+}
+// brush 42
+{
+( 712 -112 -128 ) ( 712 -112 120 ) ( 712 -80 120 ) etf_dissect/light_6k 32 47 -180 0.500000 -0.500000 0 0 0
+( 704 -72 72 ) ( 704 -104 72 ) ( 704 -104 -176 ) etf_excel/cretebase 224 127 -180 0.500000 -0.500000 0 0 0
+( 248 16 128 ) ( 248 16 -120 ) ( 952 16 -120 ) etf_excel/cretebase -128 111 90 0.500000 0.500000 0 0 0
+( 248 -80 88 ) ( 248 -112 88 ) ( 952 -112 88 ) etf_excel/cretebase 224 111 -90 0.500000 -0.500000 0 0 0
+( 248 -16 -136 ) ( 248 -16 112 ) ( 952 -16 112 ) etf_excel/cretebase -128 111 90 0.500000 0.500000 0 0 0
+( 248 -104 120 ) ( 248 -72 120 ) ( 952 -72 120 ) etf_excel/cretebase 224 111 -90 0.500000 -0.500000 0 0 0
+}
+// brush 43
+{
+( 968 -624 16 ) ( 968 -624 264 ) ( 936 -624 264 ) etf_dissect/light_6k -16 15 0 0.500000 0.500000 0 0 0
+( 928 -632 216 ) ( 960 -632 216 ) ( 960 -632 -32 ) etf_excel/cretebase -208 159 0 0.500000 0.500000 0 0 0
+( 840 -1088 272 ) ( 840 -1088 24 ) ( 840 -384 24 ) etf_excel/cretebase -160 223 90 0.500000 0.500000 0 0 0
+( 936 -1088 232 ) ( 968 -1088 232 ) ( 968 -384 232 ) etf_excel/cretebase -209 224 0 0.500000 -0.500000 0 0 0
+( 872 -1088 8 ) ( 872 -1088 256 ) ( 872 -384 256 ) etf_excel/cretebase -160 223 90 0.500000 0.500000 0 0 0
+( 960 -1088 264 ) ( 928 -1088 264 ) ( 928 -384 264 ) etf_excel/cretebase -209 224 0 0.500000 -0.500000 0 0 0
+}
+// brush 44
+{
+( 968 -624 168 ) ( 968 -624 416 ) ( 936 -624 416 ) etf_dissect/light_6k -16 0 0 0.500000 0.500000 0 0 0
+( 928 -632 368 ) ( 960 -632 368 ) ( 960 -632 120 ) etf_excel/cretebase -208 207 0 0.500000 0.500000 0 0 0
+( 840 -1088 424 ) ( 840 -1088 176 ) ( 840 -384 176 ) etf_excel/cretebase -208 223 90 0.500000 0.500000 0 0 0
+( 936 -1088 384 ) ( 968 -1088 384 ) ( 968 -384 384 ) etf_excel/cretebase -208 223 0 0.500000 -0.500000 0 0 0
+( 872 -1088 160 ) ( 872 -1088 408 ) ( 872 -384 408 ) etf_excel/cretebase -208 223 90 0.500000 0.500000 0 0 0
+( 960 -1088 416 ) ( 928 -1088 416 ) ( 928 -384 416 ) etf_excel/cretebase -208 223 0 0.500000 -0.500000 0 0 0
+}
+// brush 45
+{
+( 968 -624 -128 ) ( 968 -624 120 ) ( 936 -624 120 ) etf_dissect/light_6k -16 47 0 0.500000 0.500000 0 0 0
+( 928 -632 72 ) ( 960 -632 72 ) ( 960 -632 -176 ) etf_excel/cretebase -208 126 0 0.500000 0.500000 0 0 0
+( 840 -1088 128 ) ( 840 -1088 -120 ) ( 840 -384 -120 ) etf_excel/cretebase -128 223 90 0.500000 0.500000 0 0 0
+( 936 -1088 88 ) ( 968 -1088 88 ) ( 968 -384 88 ) etf_excel/cretebase -208 223 0 0.500000 -0.500000 0 0 0
+( 872 -1088 -136 ) ( 872 -1088 112 ) ( 872 -384 112 ) etf_excel/cretebase -128 223 90 0.500000 0.500000 0 0 0
+( 960 -1088 120 ) ( 928 -1088 120 ) ( 928 -384 120 ) etf_excel/cretebase -208 223 0 0.500000 -0.500000 0 0 0
+}
+// brush 46
+{
+( 752 1152 264 ) ( 784 1152 264 ) ( 784 448 264 ) etf_excel/cretebase -112 -160 -180 0.500000 -0.500000 0 0 0
+( 840 1152 8 ) ( 840 1152 256 ) ( 840 448 256 ) etf_excel/cretebase -160 -161 90 0.500000 -0.500000 0 0 0
+( 776 1152 232 ) ( 744 1152 232 ) ( 744 448 232 ) etf_excel/cretebase -112 -160 -180 0.500000 -0.500000 0 0 0
+( 872 1152 272 ) ( 872 1152 24 ) ( 872 448 24 ) etf_excel/cretebase -160 -161 90 0.500000 -0.500000 0 0 0
+( 784 696 216 ) ( 752 696 216 ) ( 752 696 -32 ) etf_excel/cretebase -112 158 -180 0.500000 -0.500000 0 0 0
+( 744 688 16 ) ( 744 688 264 ) ( 776 688 264 ) etf_dissect/light_6k 16 14 -180 0.500000 -0.500000 0 0 0
+}
+// brush 47
+{
+( 752 1152 416 ) ( 784 1152 416 ) ( 784 448 416 ) etf_excel/cretebase -111 -161 -180 0.500000 -0.500000 0 0 0
+( 840 1152 160 ) ( 840 1152 408 ) ( 840 448 408 ) etf_excel/cretebase -208 -161 90 0.500000 -0.500000 0 0 0
+( 776 1152 384 ) ( 744 1152 384 ) ( 744 448 384 ) etf_excel/cretebase -111 -161 -180 0.500000 -0.500000 0 0 0
+( 872 1152 424 ) ( 872 1152 176 ) ( 872 448 176 ) etf_excel/cretebase -208 -161 90 0.500000 -0.500000 0 0 0
+( 784 696 368 ) ( 752 696 368 ) ( 752 696 120 ) etf_excel/cretebase -112 206 -180 0.500000 -0.500000 0 0 0
+( 744 688 168 ) ( 744 688 416 ) ( 776 688 416 ) etf_dissect/light_6k 16 0 -180 0.500000 -0.500000 0 0 0
+}
+// brush 48
+{
+( 752 1152 120 ) ( 784 1152 120 ) ( 784 448 120 ) etf_excel/cretebase -111 -161 -180 0.500000 -0.500000 0 0 0
+( 840 1152 -136 ) ( 840 1152 112 ) ( 840 448 112 ) etf_excel/cretebase -128 -161 90 0.500000 -0.500000 0 0 0
+( 776 1152 88 ) ( 744 1152 88 ) ( 744 448 88 ) etf_excel/cretebase -111 -161 -180 0.500000 -0.500000 0 0 0
+( 872 1152 128 ) ( 872 1152 -120 ) ( 872 448 -120 ) etf_excel/cretebase -128 -161 90 0.500000 -0.500000 0 0 0
+( 784 696 72 ) ( 752 696 72 ) ( 752 696 -176 ) etf_excel/cretebase -112 125 -180 0.500000 -0.500000 0 0 0
+( 744 688 -128 ) ( 744 688 120 ) ( 776 688 120 ) etf_dissect/light_6k 16 46 -180 0.500000 -0.500000 0 0 0
+}
+}
+// entity 1
+{
+"angle" "0 0 90"
+"_etf_comment_1" "Advanced CTF entities"
+"gameindex" "1"
+"wait" "60"
+"carried_all_message" "~%N has TAKEN the ^4BLUE^* flag!"
+"active_all_message" "~%N has DROPPED the ^4BLUE^* flag!"
+"inactive_all_message" "The ^4BLUE^* flag has returned."
+"inactive_flaginfo" "The ^4BLUE^* flag is at the blue base."
+"active_flaginfo" "The ^4BLUE^* flag has been dropped at $l."
+"carried_flaginfo" "%N has the ^4BLUE^* flag."
+"carried_message" "~You have the ^4BLUE^* flag!"
+"carried_team_sound" "~sound/teamplay/voc_team_flag.wav"
+"carried_nonteam_sound" "~sound/teamplay/voc_enemy_flag.wav"
+"carried_sound" "~sound/teamplay/voc_you_flag.wav"
+"inactive_team_sound" "~sound/teamplay/flagreturn_yourteam.wav"
+"inactive_nonteam_sound" "~sound/teamplay/flagreturn_opponent.wav"
+"flags" "revealagent,showcarry"
+"allowteams" "red"
+"groupname" "blueflag"
+"color" "0 0 1"
+"light" "150"
+"model" "models/flags/b_flag.md3"
+"classname" "func_goalitem"
+"origin" "-560 -552 40"
+"inactivetarget" "blue_flaggrab=~inactive,blueflaghud=~inactive"
+"activetarget" "blueflaghud=~active"
+"carriedtarget" "blue_flaggrab,blueflaghud=~carried,reset_red_bonus"
+"sparkle" "0 0 1"
+"targetname" "watchblueflag"
+"initialstate" "invisible"
+}
+// entity 2
+{
+"_etf_comment_1" "Advanced CTF entities"
+"carried_all_message" "~%N has TAKEN the ^1RED^* flag!"
+"active_all_message" "~%N has DROPPED the ^1RED^* flag!"
+"inactive_all_message" "The ^1RED^* flag has returned."
+"inactive_flaginfo" "The ^1RED^* flag is at the red base."
+"active_flaginfo" "The ^1RED^* flag has been dropped at $l."
+"carried_flaginfo" "%N has the ^1RED^* flag."
+"carried_team_sound" "~sound/teamplay/voc_team_flag.wav"
+"carried_sound" "~sound/teamplay/voc_you_flag.wav"
+"gameindex" "1"
+"origin" "-560 -568 40"
+"classname" "func_goalitem"
+"model" "models/flags/r_flag.md3"
+"light" "150"
+"color" "1 0 0"
+"sparkle" "1 0 0"
+"groupname" "redflag"
+"allowteams" "blue"
+"flags" "revealagent,showcarry"
+"wait" "60"
+"inactivetarget" "red_flaggrab=~inactive,redflaghud=~inactive"
+"activetarget" "redflaghud=~active"
+"carriedtarget" "red_flaggrab,redflaghud=~carried,reset_blue_bonus"
+"carried_message" "You have taken the ^1RED^* flag!"
+"inactive_team_sound" "~sound/teamplay/flagreturn_yourteam.wav"
+"inactive_nonteam_sound" "~sound/teamplay/flagreturn_opponent.wav"
+"targetname" "watchredflag"
+"carried_nonteam_sound" "~sound/teamplay/voc_enemy_flag.wav"
+}
+// entity 3
+{
+"groupname" "redstuff"
+"allowteams" "red"
+"angle" "360"
+"classname" "info_player_start"
+"origin" "-604 464 48"
+"gameindex" "1,2,3"
+}
+// entity 4
+{
+"groupname" "redstuff"
+"allowteams" "red"
+"angle" "360"
+"classname" "info_player_start"
+"origin" "-604 648 48"
+"gameindex" "1,2,3"
+}
+// entity 5
+{
+"groupname" "redstuff"
+"allowteams" "red"
+"angle" "360"
+"classname" "info_player_start"
+"origin" "-604 584 48"
+"gameindex" "1,2,3"
+}
+// entity 6
+{
+"groupname" "redstuff"
+"allowteams" "red"
+"angle" "360"
+"classname" "info_player_start"
+"origin" "-604 520 48"
+"gameindex" "1,2,3"
+}
+// entity 7
+{
+"groupname" "redstuff"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"wait" "4"
+"classname" "func_goalinfo"
+"model" "models/objects/backpack/backpack.md3"
+"give" "health=+100,armor=+200,ammo_shells=+50,ammo_nails=+150,ammo_rockets=+50,ammo_cells=200,ammo_medikit=+50,gren1=+2"
+"origin" "-496 552 32"
+"flags" "rotating,hideactive,orclientstats"
+"allowteams" "red"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"_etf_comment_1" "Advanced resupply system"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+}
+// entity 8
+{
+"groupname" "redstuff"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"wait" "4"
+"classname" "func_goalinfo"
+"model" "models/objects/backpack/backpack.md3"
+"give" "health=+100,armor=+200,ammo_shells=+50,ammo_nails=+150,ammo_rockets=+50,ammo_cells=200,ammo_medikit=+50,gren1=+2"
+"origin" "-504 376 32"
+"flags" "rotating,hideactive,orclientstats"
+"allowteams" "red"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"_etf_comment_1" "Advanced resupply system"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+}
+// entity 9
+{
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"_etf_comment_1" "Advanced resupply system"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"allowteams" "red"
+"flags" "rotating,hideactive,orclientstats"
+"origin" "-500 484 32"
+"give" "health=+100,armor=+200,ammo_shells=+50,ammo_nails=+150,ammo_rockets=+50,ammo_cells=200,ammo_medikit=+50,gren1=+2"
+"model" "models/objects/backpack/backpack.md3"
+"classname" "func_goalinfo"
+"wait" "4"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"groupname" "redstuff"
+}
+// entity 10
+{
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"_etf_comment_1" "Advanced resupply system"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"allowteams" "red"
+"flags" "rotating,hideactive,orclientstats"
+"origin" "-504 308 32"
+"give" "health=+100,armor=+200,ammo_shells=+50,ammo_nails=+150,ammo_rockets=+50,ammo_cells=200,ammo_medikit=+50,gren1=+2"
+"model" "models/objects/backpack/backpack.md3"
+"classname" "func_goalinfo"
+"wait" "4"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"groupname" "redstuff"
+}
+// entity 11
+{
+"groupname" "redstuff"
+"gameindex" "1,2,3"
+"origin" "-604 216 48"
+"classname" "info_player_start"
+"angle" "360"
+"allowteams" "red"
+}
+// entity 12
+{
+"groupname" "redstuff"
+"gameindex" "1,2,3"
+"origin" "-604 400 48"
+"classname" "info_player_start"
+"angle" "360"
+"allowteams" "red"
+}
+// entity 13
+{
+"groupname" "redstuff"
+"gameindex" "1,2,3"
+"origin" "-604 336 48"
+"classname" "info_player_start"
+"angle" "360"
+"allowteams" "red"
+}
+// entity 14
+{
+"groupname" "redstuff"
+"gameindex" "1,2,3"
+"origin" "-604 272 48"
+"classname" "info_player_start"
+"angle" "360"
+"allowteams" "red"
+}
+// entity 15
+{
+"initialstate" "invisible"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"_etf_comment_1" "Advanced resupply system"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"allowteams" "blue"
+"flags" "rotating,hideactive,orclientstats"
+"origin" "-496 568 32"
+"give" "health=+100,armor=+200,ammo_shells=+50,ammo_nails=+150,ammo_rockets=+50,ammo_cells=200,ammo_medikit=+50,gren1=+2"
+"model" "models/objects/backpack/backpack.md3"
+"classname" "func_goalinfo"
+"wait" "4"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"groupname" "bluestuff"
+}
+// entity 16
+{
+"initialstate" "invisible"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"_etf_comment_1" "Advanced resupply system"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"allowteams" "blue"
+"flags" "rotating,hideactive,orclientstats"
+"origin" "-504 392 32"
+"give" "health=+100,armor=+200,ammo_shells=+50,ammo_nails=+150,ammo_rockets=+50,ammo_cells=200,ammo_medikit=+50,gren1=+2"
+"model" "models/objects/backpack/backpack.md3"
+"classname" "func_goalinfo"
+"wait" "4"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"groupname" "bluestuff"
+}
+// entity 17
+{
+"initialstate" "invisible"
+"groupname" "bluestuff"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"wait" "4"
+"classname" "func_goalinfo"
+"model" "models/objects/backpack/backpack.md3"
+"give" "health=+100,armor=+200,ammo_shells=+50,ammo_nails=+150,ammo_rockets=+50,ammo_cells=200,ammo_medikit=+50,gren1=+2"
+"origin" "-500 500 32"
+"flags" "rotating,hideactive,orclientstats"
+"allowteams" "blue"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"_etf_comment_1" "Advanced resupply system"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+}
+// entity 18
+{
+"initialstate" "invisible"
+"groupname" "bluestuff"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"wait" "4"
+"classname" "func_goalinfo"
+"model" "models/objects/backpack/backpack.md3"
+"give" "health=+100,armor=+200,ammo_shells=+50,ammo_nails=+150,ammo_rockets=+50,ammo_cells=200,ammo_medikit=+50,gren1=+2"
+"origin" "-504 324 32"
+"flags" "rotating,hideactive,orclientstats"
+"allowteams" "blue"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"_etf_comment_1" "Advanced resupply system"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+}
+// entity 19
+{
+"initialstate" "invisible"
+"gameindex" "1,2,3"
+"origin" "-596 456 48"
+"classname" "info_player_start"
+"angle" "360"
+"allowteams" "blue"
+"groupname" "bluestuff"
+}
+// entity 20
+{
+"initialstate" "invisible"
+"gameindex" "1,2,3"
+"origin" "-596 640 48"
+"classname" "info_player_start"
+"angle" "360"
+"allowteams" "blue"
+"groupname" "bluestuff"
+}
+// entity 21
+{
+"initialstate" "invisible"
+"gameindex" "1,2,3"
+"origin" "-596 576 48"
+"classname" "info_player_start"
+"angle" "360"
+"allowteams" "blue"
+"groupname" "bluestuff"
+}
+// entity 22
+{
+"initialstate" "invisible"
+"gameindex" "1,2,3"
+"origin" "-596 512 48"
+"classname" "info_player_start"
+"angle" "360"
+"allowteams" "blue"
+"groupname" "bluestuff"
+}
+// entity 23
+{
+"initialstate" "invisible"
+"allowteams" "blue"
+"angle" "360"
+"classname" "info_player_start"
+"origin" "-596 208 48"
+"gameindex" "1,2,3"
+"groupname" "bluestuff"
+}
+// entity 24
+{
+"initialstate" "invisible"
+"allowteams" "blue"
+"angle" "360"
+"classname" "info_player_start"
+"origin" "-596 392 48"
+"gameindex" "1,2,3"
+"groupname" "bluestuff"
+}
+// entity 25
+{
+"initialstate" "invisible"
+"allowteams" "blue"
+"angle" "360"
+"classname" "info_player_start"
+"origin" "-596 328 48"
+"gameindex" "1,2,3"
+"groupname" "bluestuff"
+}
+// entity 26
+{
+"initialstate" "invisible"
+"allowteams" "blue"
+"angle" "360"
+"classname" "info_player_start"
+"origin" "-596 264 48"
+"gameindex" "1,2,3"
+"groupname" "bluestuff"
+}
+// entity 27
+{
+"classname" "trigger_multiple"
+"activetarget" "bluestuff=~invisible,redatk=~invisible,countdownra=~inactive,startapprove=~invisible"
+"wait" "-1"
+"groupname" "startapprove"
+// brush 0
+{
+( -648 832 152 ) ( -648 56 152 ) ( -648 56 16 ) common/trigger -16 32 0 0.500000 0.500000 0 7 0
+( -192 712 152 ) ( -664 712 152 ) ( -664 712 16 ) common/trigger 16 32 0 0.500000 0.500000 0 7 0
+( -368 48 152 ) ( -368 824 152 ) ( -368 824 16 ) common/trigger -16 32 0 0.500000 0.500000 0 7 0
+( -704 120 152 ) ( -232 120 152 ) ( -232 120 16 ) common/trigger 16 32 0 0.500000 0.500000 0 7 0
+( -688 56 256 ) ( -688 832 256 ) ( -216 832 256 ) common/trigger 16 16 0 0.500000 0.500000 0 7 0
+( -216 832 -32 ) ( -688 832 -32 ) ( -688 56 -32 ) common/trigger 16 16 0 0.500000 0.500000 0 7 0
+}
+}
+// entity 28
+{
+"groupname" "redatk"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"wait" "4"
+"classname" "func_goalinfo"
+"model" "models/objects/backpack/backpack.md3"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"origin" "800 -504 32"
+"flags" "rotating,hideactive,orclientstats"
+"allowteams" "red"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"_etf_comment_1" "Advanced resupply system"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"initialstate" "invisible"
+}
+// entity 29
+{
+"origin" "972 168 48"
+"classname" "info_player_start"
+"angle" "180"
+"allowteams" "red"
+"groupname" "redatk"
+"initialstate" "invisible"
+}
+// entity 30
+{
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"_etf_comment_1" "Advanced resupply system"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"allowteams" "blue"
+"flags" "rotating,hideactive,orclientstats"
+"origin" "800 -520 32"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"model" "models/objects/backpack/backpack.md3"
+"classname" "func_goalinfo"
+"wait" "4"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"groupname" "blueatk"
+}
+// entity 31
+{
+"groupname" "blueatk"
+"allowteams" "blue"
+"angle" "180"
+"classname" "info_player_start"
+"origin" "964 168 48"
+}
+// entity 32
+{
+"initialstate" "invisible"
+"groupname" "redatk"
+"allowteams" "red"
+"angle" "180"
+"classname" "info_player_start"
+"origin" "972 120 48"
+}
+// entity 33
+{
+"origin" "964 120 48"
+"classname" "info_player_start"
+"angle" "180"
+"allowteams" "blue"
+"groupname" "blueatk"
+}
+// entity 34
+{
+"initialstate" "invisible"
+"groupname" "redatk"
+"allowteams" "red"
+"angle" "180"
+"classname" "info_player_start"
+"origin" "972 72 48"
+}
+// entity 35
+{
+"origin" "964 72 48"
+"classname" "info_player_start"
+"angle" "180"
+"allowteams" "blue"
+"groupname" "blueatk"
+}
+// entity 36
+{
+"origin" "972 24 48"
+"classname" "info_player_start"
+"angle" "180"
+"allowteams" "red"
+"groupname" "redatk"
+"initialstate" "invisible"
+}
+// entity 37
+{
+"groupname" "blueatk"
+"allowteams" "blue"
+"angle" "180"
+"classname" "info_player_start"
+"origin" "964 24 48"
+}
+// entity 38
+{
+"origin" "972 -24 48"
+"classname" "info_player_start"
+"angle" "180"
+"allowteams" "red"
+"groupname" "redatk"
+"initialstate" "invisible"
+}
+// entity 39
+{
+"groupname" "blueatk"
+"allowteams" "blue"
+"angle" "180"
+"classname" "info_player_start"
+"origin" "964 -24 48"
+}
+// entity 40
+{
+"initialstate" "invisible"
+"groupname" "redatk"
+"allowteams" "red"
+"angle" "180"
+"classname" "info_player_start"
+"origin" "972 -72 48"
+}
+// entity 41
+{
+"origin" "964 -72 48"
+"classname" "info_player_start"
+"angle" "180"
+"allowteams" "blue"
+"groupname" "blueatk"
+}
+// entity 42
+{
+"initialstate" "invisible"
+"groupname" "redatk"
+"allowteams" "red"
+"angle" "180"
+"classname" "info_player_start"
+"origin" "972 -120 48"
+}
+// entity 43
+{
+"origin" "964 -120 48"
+"classname" "info_player_start"
+"angle" "180"
+"allowteams" "blue"
+"groupname" "blueatk"
+}
+// entity 44
+{
+"origin" "972 -168 48"
+"classname" "info_player_start"
+"angle" "180"
+"allowteams" "red"
+"groupname" "redatk"
+"initialstate" "invisible"
+}
+// entity 45
+{
+"groupname" "blueatk"
+"allowteams" "blue"
+"angle" "180"
+"classname" "info_player_start"
+"origin" "964 -168 48"
+}
+// entity 46
+{
+"initialstate" "invisible"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"_etf_comment_1" "Advanced resupply system"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"allowteams" "red"
+"flags" "rotating,hideactive,orclientstats"
+"origin" "800 -440 32"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"model" "models/objects/backpack/backpack.md3"
+"classname" "func_goalinfo"
+"wait" "4"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"groupname" "redatk"
+}
+// entity 47
+{
+"groupname" "blueatk"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"wait" "4"
+"classname" "func_goalinfo"
+"model" "models/objects/backpack/backpack.md3"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"origin" "800 -456 32"
+"flags" "rotating,hideactive,orclientstats"
+"allowteams" "blue"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"_etf_comment_1" "Advanced resupply system"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+}
+// entity 48
+{
+"initialstate" "invisible"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"_etf_comment_1" "Advanced resupply system"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"allowteams" "red"
+"flags" "rotating,hideactive,orclientstats"
+"origin" "800 464 32"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"model" "models/objects/backpack/backpack.md3"
+"classname" "func_goalinfo"
+"wait" "4"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"groupname" "redatk"
+}
+// entity 49
+{
+"groupname" "blueatk"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"wait" "4"
+"classname" "func_goalinfo"
+"model" "models/objects/backpack/backpack.md3"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"origin" "800 448 32"
+"flags" "rotating,hideactive,orclientstats"
+"allowteams" "blue"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"_etf_comment_1" "Advanced resupply system"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+}
+// entity 50
+{
+"groupname" "redatk"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"wait" "4"
+"classname" "func_goalinfo"
+"model" "models/objects/backpack/backpack.md3"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"origin" "800 528 32"
+"flags" "rotating,hideactive,orclientstats"
+"allowteams" "red"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"_etf_comment_1" "Advanced resupply system"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"initialstate" "invisible"
+}
+// entity 51
+{
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"_etf_comment_1" "Advanced resupply system"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"allowteams" "blue"
+"flags" "rotating,hideactive,orclientstats"
+"origin" "800 512 32"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"model" "models/objects/backpack/backpack.md3"
+"classname" "func_goalinfo"
+"wait" "4"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"groupname" "blueatk"
+}
+// entity 52
+{
+"classname" "trigger_multiple"
+"activetarget" "bluestuff=~invisible,redatk=~invisible,countdownra=~inactive,startapprove=~invisible"
+"wait" "-1"
+"groupname" "startapprove"
+// brush 0
+{
+( 888 864 -72 ) ( 888 -1088 -72 ) ( 888 -1088 -360 ) common/trigger 0 16 0 0.500000 0.500000 0 7 0
+( 1072 248 -72 ) ( 808 248 -72 ) ( 808 248 -360 ) common/trigger 0 16 0 0.500000 0.500000 0 7 0
+( 1032 -1104 -72 ) ( 1032 848 -72 ) ( 1032 848 -360 ) common/trigger 0 16 0 0.500000 0.500000 0 7 0
+( 752 -248 -72 ) ( 1016 -248 -72 ) ( 1016 -248 -360 ) common/trigger 0 16 0 0.500000 0.500000 0 7 0
+( 856 -1104 208 ) ( 856 848 208 ) ( 1120 848 208 ) common/trigger 0 0 0 0.500000 0.500000 0 7 0
+( 1064 848 -24 ) ( 800 848 -24 ) ( 800 -1104 -24 ) common/trigger 0 0 0 0.500000 0.500000 0 7 0
+}
+}
+// entity 53
+{
+"groupname" "redatk"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"wait" "4"
+"classname" "func_goalinfo"
+"model" "models/objects/backpack/backpack.md3"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"origin" "904 464 32"
+"flags" "rotating,hideactive,orclientstats"
+"allowteams" "red"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"_etf_comment_1" "Advanced resupply system"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"initialstate" "invisible"
+}
+// entity 54
+{
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"_etf_comment_1" "Advanced resupply system"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"allowteams" "blue"
+"flags" "rotating,hideactive,orclientstats"
+"origin" "904 448 32"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"model" "models/objects/backpack/backpack.md3"
+"classname" "func_goalinfo"
+"wait" "4"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"groupname" "blueatk"
+}
+// entity 55
+{
+"initialstate" "invisible"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"_etf_comment_1" "Advanced resupply system"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"allowteams" "red"
+"flags" "rotating,hideactive,orclientstats"
+"origin" "904 528 32"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"model" "models/objects/backpack/backpack.md3"
+"classname" "func_goalinfo"
+"wait" "4"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"groupname" "redatk"
+}
+// entity 56
+{
+"groupname" "blueatk"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"wait" "4"
+"classname" "func_goalinfo"
+"model" "models/objects/backpack/backpack.md3"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"origin" "904 512 32"
+"flags" "rotating,hideactive,orclientstats"
+"allowteams" "blue"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"_etf_comment_1" "Advanced resupply system"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+}
+// entity 57
+{
+"initialstate" "invisible"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"_etf_comment_1" "Advanced resupply system"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"allowteams" "red"
+"flags" "rotating,hideactive,orclientstats"
+"origin" "904 -504 32"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"model" "models/objects/backpack/backpack.md3"
+"classname" "func_goalinfo"
+"wait" "4"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"groupname" "redatk"
+}
+// entity 58
+{
+"groupname" "blueatk"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"wait" "4"
+"classname" "func_goalinfo"
+"model" "models/objects/backpack/backpack.md3"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"origin" "904 -520 32"
+"flags" "rotating,hideactive,orclientstats"
+"allowteams" "blue"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"_etf_comment_1" "Advanced resupply system"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+}
+// entity 59
+{
+"groupname" "redatk"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"wait" "4"
+"classname" "func_goalinfo"
+"model" "models/objects/backpack/backpack.md3"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"origin" "904 -440 32"
+"flags" "rotating,hideactive,orclientstats"
+"allowteams" "red"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"_etf_comment_1" "Advanced resupply system"
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"initialstate" "invisible"
+}
+// entity 60
+{
+"_etf_comment_2" "Origins are set to -15 -15 0 to prevent people from picking them up through the floor"
+"_etf_comment_1" "Advanced resupply system"
+"inactive_all_sound" "sound/items/respawn1.wav"
+"allowteams" "blue"
+"flags" "rotating,hideactive,orclientstats"
+"origin" "904 -456 32"
+"give" "health=+50,armor=+100,ammo_shells=+50,ammo_nails=+100,ammo_rockets=+15,ammo_cells=+100,ammo_medikit=+50,gren1=+2"
+"model" "models/objects/backpack/backpack.md3"
+"classname" "func_goalinfo"
+"wait" "4"
+"active_all_sound" "sound/misc/am_pkup.wav"
+"clientstats" "health<!,armor<!,gren1<!,ammo_cells<!"
+"groupname" "blueatk"
+}
+// entity 61
+{
+"active_sound" "~sound/teamplay/flagcapture_yourteam.wav"
+"wait" ".5"
+"active_team_sound" "~sound/teamplay/flagcapture_yourteam.wav"
+"active_nonteam_sound" "~sound/teamplay/flagcapture_opponent.wav"
+"active_all_message" "~%N CAPTURED the ^4BLUE^* flag!"
+"active_message" "You have scored 2 frags for capturing the flag."
+"gameindex" "1"
+"give" "score=+2,health=+100,armor=+200,ammo_shells=+200,ammo_bullets=+200,ammo_cells=+200,ammo_rockets=+200,ammo_medikit=+50,ammo_charge=+1,gren1=+4,gren2=+2"
+"classname" "trigger_multiple"
+"holding" "blueflag"
+"teamscore" "10"
+"activetarget" "red_bonus,blueflag=~inactive"
+"active_all_sound" "~sound/teamplay/voc_red_scores.wav"
+"_etf_comment_1" "Advanced CTF entities"
+// brush 0
+{
+( 756 32 16 ) ( 740 32 16 ) ( 740 32 0 ) common/trigger 24 -16 0 0.500000 0.500000 0 0 0
+( 696 -24 32 ) ( 712 -24 32 ) ( 712 -24 16 ) common/trigger 24 -16 0 0.500000 0.500000 0 0 0
+( 748 36 32 ) ( 764 36 32 ) ( 764 20 32 ) common/trigger 23 -24 -90 0.500000 0.500000 0 0 0
+( 764 20 8 ) ( 764 36 8 ) ( 748 36 8 ) common/trigger 23 -24 -90 0.500000 0.500000 0 0 0
+( 776 104 8 ) ( 776 40 8 ) ( 776 104 32 ) common/trigger 23 -24 -180 0.500000 -0.500000 0 0 0
+( 720 -88 8 ) ( 720 -56 8 ) ( 720 -88 32 ) common/trigger 23 -24 -180 0.500000 -0.500000 0 0 0
+}
+}
+// entity 62
+{
+"_etf_comment_1" "Advanced CTF entities"
+"active_all_sound" "~sound/teamplay/voc_blue_scores.wav"
+"activetarget" "blue_bonus,redflag=~inactive"
+"teamscore" "10"
+"holding" "redflag"
+"classname" "trigger_multiple"
+"give" "score=+2,health=+100,armor=+200,ammo_shells=+200,ammo_bullets=+200,ammo_cells=+200,ammo_rockets=+200,ammo_medikit=+50,ammo_charge=+1,gren1=+4,gren2=+2"
+"gameindex" "1"
+"active_message" "You have scored 2 frags for capturing the flag."
+"active_all_message" "~%N CAPTURED the ^1RED^* flag!"
+"active_nonteam_sound" "~sound/teamplay/flagcapture_opponent.wav"
+"active_team_sound" "~sound/teamplay/flagcapture_yourteam.wav"
+"wait" ".5"
+"active_sound" "~sound/teamplay/flagcapture_yourteam.wav"
+// brush 0
+{
+( 728 -88 8 ) ( 728 -56 8 ) ( 728 -88 32 ) common/trigger 23 -25 -180 0.500000 -0.500000 0 0 0
+( 768 96 8 ) ( 768 32 8 ) ( 768 96 32 ) common/trigger 23 -25 -180 0.500000 -0.500000 0 0 0
+( 764 20 8 ) ( 764 36 8 ) ( 748 36 8 ) common/trigger 23 -24 -90 0.500000 0.500000 0 0 0
+( 748 36 40 ) ( 764 36 40 ) ( 764 20 40 ) common/trigger 23 -24 -90 0.500000 0.500000 0 0 0
+( 704 -16 32 ) ( 720 -16 32 ) ( 720 -16 16 ) common/trigger 24 -16 0 0.500000 0.500000 0 0 0
+( 756 24 16 ) ( 740 24 16 ) ( 740 24 0 ) common/trigger 24 -16 0 0.500000 0.500000 0 0 0
+}
+}
+// entity 63
+{
+"groupname" "blackhole"
+"type" "autosentry,supplystation,charge,grenades,projectiles,backpacks"
+"classname" "target_blackhole"
+// brush 0
+{
+( 1584 2136 -248 ) ( -4112 2136 -248 ) ( -4112 -1696 -248 ) common/trigger 0 0 0 0.500000 0.500000 0 7 0
+( -4144 -1696 976 ) ( -4144 2136 976 ) ( 1552 2136 976 ) common/trigger 0 0 0 0.500000 0.500000 0 7 0
+( -4040 -720 1024 ) ( 1656 -720 1024 ) ( 1656 -720 0 ) common/trigger 0 0 0 0.500000 0.500000 0 7 0
+( 1232 -1696 1024 ) ( 1232 2136 1024 ) ( 1232 2136 0 ) common/trigger 0 0 0 0.500000 0.500000 0 7 0
+( 1728 784 1024 ) ( -3968 784 1024 ) ( -3968 784 0 ) common/trigger 0 0 0 0.500000 0.500000 0 7 0
+( -824 2384 1024 ) ( -824 -1448 1024 ) ( -824 -1448 0 ) common/trigger 0 0 0 0.500000 0.500000 0 7 0
+}
+}
+// entity 64
+{
+"classname" "trigger_multiple"
+"groupname" "respawnertrigr"
+"wait" ".1"
+"initialstate" "invisible"
+"inactivetarget" "respawner,blueflag=~invisible,redflaghud=~inactive,countdownba=~disabled,blackhole,respawnertrigr=~invisible"
+"inactive_all_message" "~^4Blue^* is offense\n^1Red^* is defense"
+"activetarget" "blueflag=~inactive,redflag=~inactive"
+// brush 0
+{
+( 240 2752 64 ) ( 240 -1784 64 ) ( 240 -1784 48 ) common/trigger 32 0 0 0.500000 0.500000 0 7 0
+( 792 -1176 64 ) ( -4104 -1176 64 ) ( -4104 -1176 48 ) common/trigger 0 0 0 0.500000 0.500000 0 7 0
+( 296 -1200 64 ) ( 296 3336 64 ) ( 296 3336 48 ) common/trigger 32 0 0 0.500000 0.500000 0 7 0
+( -4080 -1232 64 ) ( 816 -1232 64 ) ( 816 -1232 48 ) common/trigger 0 0 0 0.500000 0.500000 0 7 0
+( -4040 -1696 -80 ) ( -4040 2840 -80 ) ( 856 2840 -80 ) common/trigger 0 -32 0 0.500000 0.500000 0 7 0
+( 680 2840 -120 ) ( -4216 2840 -120 ) ( -4216 -1696 -120 ) common/trigger 0 -32 0 0.500000 0.500000 0 7 0
+}
+}
+// entity 65
+{
+"inactivetarget" "respawner,redflag=~invisible,blueflaghud=~inactive,countdownra=~disabled,blackhole,respawnertrigb=~invisible"
+"initialstate" "invisible"
+"wait" ".1"
+"groupname" "respawnertrigb"
+"classname" "trigger_multiple"
+"inactive_all_message" "~^1Red^* is offense\n^4Blue^* is defense"
+"activetarget" "redflag=~inactive,blueflag=~inactive"
+// brush 0
+{
+( 568 2864 -120 ) ( -4328 2864 -120 ) ( -4328 -1672 -120 ) common/trigger -32 16 0 0.500000 0.500000 0 7 0
+( -4184 -1672 -80 ) ( -4184 2864 -80 ) ( 712 2864 -80 ) common/trigger -32 16 0 0.500000 0.500000 0 7 0
+( -4304 -1312 64 ) ( 592 -1312 64 ) ( 592 -1312 48 ) common/trigger -32 0 0 0.500000 0.500000 0 7 0
+( 296 -1664 64 ) ( 296 2872 64 ) ( 296 2872 48 ) common/trigger -16 0 0 0.500000 0.500000 0 7 0
+( 792 -1256 64 ) ( -4104 -1256 64 ) ( -4104 -1256 48 ) common/trigger -32 0 0 0.500000 0.500000 0 7 0
+( 240 3096 64 ) ( 240 -1440 64 ) ( 240 -1440 48 ) common/trigger -16 0 0 0.500000 0.500000 0 7 0
+}
+}
+// entity 66
+{
+"classname" "info_notnull"
+"active_message" "Your team cannot use this door."
+"wait" "2"
+"origin" "440 -1424 -96"
+"groupname" "doorfail"
+}
+// entity 67
+{
+"active_sound" "~sound/feedback/defense.wav"
+"active_all_message" "%N defends the blue flag in the field!"
+"victimallowteams" "red"
+"_etf_comment_2" "Give frag bonus for enemies killed near the flag"
+"give" "score=+1"
+"watchrange" "512"
+"watch" "watchblueflag"
+"checkstate" "blueflag=active"
+"origin" "-136 -1680 -96"
+"allowteams" "blue"
+"classname" "misc_onkill"
+"active_message" "^4Defense!^*"
+"spawnflags" "5"
+"gameindex" "1"
+"wait" ".25"
+"_etf_comment_1" "Advanced CTF entities"
+}
+// entity 68
+{
+"active_message" "^1Defense!^*"
+"classname" "misc_onkill"
+"allowteams" "red"
+"origin" "224 -1680 -96"
+"checkstate" "redflag=active"
+"watch" "watchredflag"
+"watchrange" "512"
+"give" "score=+1"
+"_etf_comment_2" "Give frag bonus for enemies killed near the flag"
+"victimallowteams" "blue"
+"active_all_message" "%N defends the red flag in the field!"
+"active_sound" "~sound/feedback/defense.wav"
+"spawnflags" "5"
+"gameindex" "1"
+"wait" ".25"
+"_etf_comment_1" "Advanced CTF entities"
+}
+// entity 69
+{
+"gameindex" "1"
+"spawnflags" "5"
+"active_sound" "~sound/feedback/defense.wav"
+"active_all_message" "%N defends the red flag at its base!"
+"victimallowteams" "blue"
+"_etf_comment_2" "Give frag bonus for enemies killed near the flag"
+"give" "score=+1"
+"watchrange" "512"
+"watch" "watchredflag"
+"checkstate" "redflag=inactive"
+"origin" "224 -1704 -96"
+"allowteams" "red"
+"classname" "misc_onkill"
+"active_message" "^1Defense!^*"
+"wait" ".25"
+"_etf_comment_1" "Advanced CTF entities"
+}
+// entity 70
+{
+"classname" "info_notnull"
+"groupname" "reset_blue_bonus"
+"origin" "-72 -2048 -96"
+"activetarget" "blue_bonus_frag=~invisible,blue_bonus1=~disabled,blue_bonus2=~disabled,blue_bonus3=~disabled,blue_bonus4=~disabled,blue_bonus5=~disabled,blue_bonus6=~disabled,blue_bonus7=~disabled,blue_bonus8=~disabled,blue_bonus9=~disabled,blue_bonus10=~disabled"
+"inactivetarget" "blue_bonus_frag=~inactive"
+"wait" ".25"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "This resets the frag bonus for the flag carrier."
+}
+// entity 71
+{
+"classname" "info_notnull"
+"groupname" "red_bonus1,red_bonus"
+"give" "score=+1"
+"active_all_message" "%N scores 1 bonus point for fragging an enemy while capturing the flag!"
+"origin" "368 -1944 -96"
+"initialstate" "disabled"
+"activetarget" "reset_red_bonus"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+}
+// entity 72
+{
+"victimallowteams" "red"
+"classname" "misc_onkill"
+"allowteams" "blue"
+"origin" "-80 -1736 -96"
+"holding" "redflag"
+"active_message" "You killed an enemy while holding the flag! Bonus!"
+"activetarget" "blue_bonus_frag"
+"wait" ".25"
+"gameindex" "1"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "This triggers the counter to keep track of frags (up to 10) that you achieve while holding the enemy flag.  This will count up to 10 frags, and is awarded when the flag carrier caps. It is reset every time the flag is dropped."
+}
+// entity 73
+{
+"classname" "misc_onkill"
+"victimholding" "blueflag"
+"active_message" "You killed the enemy flag carrier! Bonus frag awarded!"
+"origin" "-80 -1664 -96"
+"active_all_message" "%N killed the red team's flag carrier!"
+"wait" ".25"
+"notholding" "redflag"
+"gameindex" "1"
+"allowteams" "blue"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "This gives a bonus for killing the enemy flag carrier if you're not holding the enemy flag."
+"give" "score=+1"
+}
+// entity 74
+{
+"classname" "func_hud"
+"origin" "-144 -1888 -96"
+"inactive_model" "models/flags/r_flag.md3"
+"slot" "1"
+"holding" "redflag"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "Red flag status indicator"
+}
+// entity 75
+{
+"holding" "blueflag"
+"slot" "1"
+"inactive_model" "models/flags/b_flag.md3"
+"origin" "440 -1888 -96"
+"classname" "func_hud"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "Blue flag status indicator"
+}
+// entity 76
+{
+"scale" ".5"
+"carried_shader" "textures/etf_hud/red_lost"
+"active_shader" "textures/etf_hud/red_down"
+"inactive_shader" "textures/etf_hud/red_safe"
+"slot" "3"
+"origin" "-144 -1912 -96"
+"classname" "func_hud"
+"gameindex" "1,3"
+"groupname" "redflaghud"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "Red flag status indicator"
+}
+// entity 77
+{
+"groupname" "blueflaghud"
+"scale" ".5"
+"classname" "func_hud"
+"origin" "440 -1912 -96"
+"slot" "3"
+"inactive_shader" "textures/etf_hud/blue_safe"
+"active_shader" "textures/etf_hud/blue_down"
+"carried_shader" "textures/etf_hud/blue_lost"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "Blue flag status indicator"
+"initialstate" "invisible"
+}
+// entity 78
+{
+"origin" "-80 -1640 -96"
+"groupname" "blue_flaggrab"
+"classname" "info_notnull"
+"give" "score=+2"
+"active_message" "You scored 2 frags for taking the enemy flag!"
+"wait" ".25"
+"activetarget" "blue_flaggrab=~disabled"
+"gameindex" "1"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "This gives +2 frags for grabbing the flag, then disables itself until the flag returns by timeout or cap. This prevents people from doing dropflag repeatedly to rack up frags."
+}
+// entity 79
+{
+"active_message" "You scored 2 frags for taking the enemy flag!"
+"give" "score=+2"
+"classname" "info_notnull"
+"groupname" "red_flaggrab"
+"origin" "160 -1640 -96"
+"wait" ".25"
+"activetarget" "red_flaggrab=~disabled"
+"gameindex" "1"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "This gives +2 frags for grabbing the flag, then disables itself until the flag returns by timeout or cap. This prevents people from doing dropflag repeatedly to rack up frags."
+}
+// entity 80
+{
+"active_all_message" "%N killed the blue team's flag carrier!"
+"origin" "160 -1664 -96"
+"active_message" "You killed the enemy flag carrier! Bonus frag awarded!"
+"victimholding" "redflag"
+"classname" "misc_onkill"
+"wait" ".25"
+"notholding" "blueflag"
+"gameindex" "1"
+"allowteams" "red"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "This gives a bonus for killing the enemy flag carrier if you're not holding the enemy flag."
+"give" "score=+1"
+}
+// entity 81
+{
+"victimallowteams" "blue"
+"wait" ".25"
+"activetarget" "red_bonus_frag"
+"active_message" "You killed an enemy while holding the flag! Bonus!"
+"holding" "blueflag"
+"origin" "160 -1736 -96"
+"allowteams" "red"
+"classname" "misc_onkill"
+"gameindex" "1"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "This triggers the counter to keep track of frags (up to 10) that you achieve while holding the enemy flag.  This will count up to 10 frags, and is awarded when the flag carrier caps. It is reset every time the flag is dropped."
+}
+// entity 82
+{
+"wait" ".25"
+"active_message" "Holy Shit! You killed the enemy flag carrier! Bonus!"
+"holding" "redflag"
+"origin" "-80 -1688 -96"
+"classname" "misc_onkill"
+"victimholding" "blueflag"
+"gameindex" "1"
+"active_all_message" "%N killed the red team's flag carrier while carrying the enemy flag himself!"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "This gives a bonus for killing the enemy flag carrier if you are holding the enemy flag."
+"active_all_sound" "~sound/feedback/voc_holyshit.wav"
+"give" "score=+2"
+}
+// entity 83
+{
+"victimholding" "redflag"
+"classname" "misc_onkill"
+"origin" "160 -1688 -96"
+"holding" "blueflag"
+"active_message" "Holy Shit! You killed the enemy flag carrier! Bonus!"
+"wait" ".25"
+"gameindex" "1"
+"active_all_message" "%N killed the blue team's flag carrier while carrying the enemy flag himself!"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "This gives a bonus for killing the enemy flag carrier if you are holding the enemy flag."
+"active_all_sound" "~sound/feedback/voc_holyshit.wav"
+"give" "score=+2"
+}
+// entity 84
+{
+"gameindex" "1"
+"wait" ".25"
+"active_all_message" "%N teamkilled the red team's flag carrier!"
+"origin" "-80 -1712 -96"
+"active_message" "You killed a friendly flag carrier! -2 frag penalty awarded."
+"victimholding" "blueflag"
+"allowteams" "red"
+"classname" "misc_onkill"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "Punishes a player for teamkilling."
+"give" "score=-2"
+}
+// entity 85
+{
+"classname" "misc_onkill"
+"victimholding" "redflag"
+"active_message" "You killed a friendly flag carrier! -2 frag penalty awarded."
+"origin" "160 -1712 -96"
+"active_all_message" "%N teamkilled the blue team's flag carrier!"
+"wait" ".25"
+"gameindex" "1"
+"allowteams" "blue"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "Punishes a player for teamkilling."
+"give" "score=-2"
+}
+// entity 86
+{
+"origin" "368 -1984 -96"
+"target_5" "red_bonus5=~inactive,red_bonus4=~disabled"
+"target_4" "red_bonus4=~inactive,red_bonus3=~disabled"
+"target_3" "red_bonus3=~inactive,red_bonus2=~disabled"
+"target_2" "red_bonus2=~inactive,red_bonus1=~disabled"
+"target_1" "red_bonus1=~inactive"
+"initialvalue" "0"
+"increment" "1"
+"classname" "target_accumulator"
+"groupname" "red_bonus_frag"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "This is what actually accumulates and keeps track of the number of frags a flag carrier makes during his run.  Whatever *_bonus entity is inactive when the flag is capped is the one that will be activated, giving the person capping the appropriate score."
+}
+// entity 87
+{
+"groupname" "blue_bonus_frag"
+"classname" "target_accumulator"
+"increment" "1"
+"initialvalue" "0"
+"target_1" "blue_bonus1=~inactive"
+"target_2" "blue_bonus2=~inactive,blue_bonus1=~disabled"
+"target_3" "blue_bonus3=~inactive,blue_bonus2=~disabled"
+"target_4" "blue_bonus4=~inactive,blue_bonus3=~disabled"
+"target_5" "blue_bonus5=~inactive,blue_bonus4=~disabled"
+"origin" "-72 -1984 -96"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "This is what actually accumulates and keeps track of the number of frags a flag carrier makes during his run.  Whatever *_bonus entity is inactive when the flag is capped is the one that will be activated, giving the person capping the appropriate score."
+}
+// entity 88
+{
+"origin" "368 -1920 -96"
+"active_all_message" "%N scores 2 bonus points for fragging enemies while capturing the flag!"
+"give" "score=+2"
+"groupname" "red_bonus2,red_bonus"
+"classname" "info_notnull"
+"initialstate" "disabled"
+"activetarget" "reset_red_bonus"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+}
+// entity 89
+{
+"classname" "info_notnull"
+"groupname" "red_bonus3,red_bonus"
+"give" "score=+3"
+"active_all_message" "%N scores 3 bonus points for fragging enemies while capturing the flag!"
+"origin" "368 -1896 -96"
+"initialstate" "disabled"
+"activetarget" "reset_red_bonus"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+}
+// entity 90
+{
+"classname" "info_notnull"
+"groupname" "red_bonus4,red_bonus"
+"give" "score=+4"
+"active_all_message" "%N scores 4 bonus points for fragging enemies while capturing the flag!"
+"origin" "368 -1872 -96"
+"initialstate" "disabled"
+"activetarget" "reset_red_bonus"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+}
+// entity 91
+{
+"classname" "info_notnull"
+"groupname" "red_bonus5,red_bonus"
+"give" "score=+5"
+"active_all_message" "%N scores 5 bonus points for fragging enemies while capturing the flag!"
+"origin" "368 -1848 -96"
+"initialstate" "disabled"
+"activetarget" "reset_red_bonus"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+}
+// entity 92
+{
+"origin" "-72 -1848 -96"
+"active_all_message" "%N scores 5 bonus points for fragging enemies while capturing the flag!"
+"give" "score=+5"
+"groupname" "blue_bonus5,blue_bonus"
+"classname" "info_notnull"
+"initialstate" "disabled"
+"activetarget" "reset_blue_bonus"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+}
+// entity 93
+{
+"origin" "-72 -1872 -96"
+"active_all_message" "%N scores 4 bonus points for fragging enemies while capturing the flag!"
+"give" "score=+4"
+"groupname" "blue_bonus4,blue_bonus"
+"classname" "info_notnull"
+"initialstate" "disabled"
+"activetarget" "reset_blue_bonus"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+}
+// entity 94
+{
+"origin" "-72 -1896 -96"
+"active_all_message" "%N scores 3 bonus points for fragging enemies while capturing the flag!"
+"give" "score=+3"
+"groupname" "blue_bonus3,blue_bonus"
+"classname" "info_notnull"
+"initialstate" "disabled"
+"activetarget" "reset_blue_bonus"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+}
+// entity 95
+{
+"classname" "info_notnull"
+"groupname" "blue_bonus2,blue_bonus"
+"give" "score=+2"
+"active_all_message" "%N scores 2 bonus points for fragging enemies while capturing the flag!"
+"origin" "-72 -1920 -96"
+"initialstate" "disabled"
+"activetarget" "reset_blue_bonus"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+}
+// entity 96
+{
+"origin" "-72 -1944 -96"
+"active_all_message" "%N scores 1 bonus point for fragging an enemy while capturing the flag!"
+"give" "score=+1"
+"groupname" "blue_bonus1,blue_bonus"
+"classname" "info_notnull"
+"initialstate" "disabled"
+"activetarget" "reset_blue_bonus"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+}
+// entity 97
+{
+"origin" "368 -2048 -96"
+"groupname" "reset_red_bonus"
+"classname" "info_notnull"
+"activetarget" "red_bonus_frag=~invisible,red_bonus1=~disabled,red_bonus2=~disabled,red_bonus3=~disabled,red_bonus4=~disabled,red_bonus5=~disabled,red_bonus6=~disabled,red_bonus7=~disabled,red_bonus8=~disabled,red_bonus9=~disabled,red_bonus10=~disabled"
+"inactivetarget" "red_bonus_frag=~inactive"
+"wait" ".25"
+"gameindex" "1,3"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "This resets the frag bonus for the flag carrier."
+}
+// entity 98
+{
+"gameindex" "1"
+"spawnflags" "5"
+"active_message" "^4Defense!^*"
+"classname" "misc_onkill"
+"allowteams" "blue"
+"origin" "-136 -1704 -96"
+"checkstate" "blueflag=inactive"
+"watch" "watchblueflag"
+"watchrange" "512"
+"give" "score=+1"
+"_etf_comment_1" "Advanced CTF entities"
+"victimallowteams" "red"
+"active_all_message" "%N defends the blue flag at its base!"
+"active_sound" "~sound/feedback/defense.wav"
+"wait" ".25"
+}
+// entity 99
+{
+"wait" ".25"
+"spawnflags" "5"
+"active_message" "^4Assist!^*"
+"classname" "misc_onkill"
+"allowteams" "blue"
+"origin" "-136 -1656 -96"
+"checkstate" "redflag=carried"
+"watch" "watchredflag"
+"watchrange" "512"
+"give" "score=+1"
+"_etf_comment_1" "Advanced CTF entities"
+"victimallowteams" "red"
+"active_all_message" "%N defends the blue flag carrier!"
+"active_sound" "~sound/feedback/assist.wav"
+"gameindex" "1"
+"notholding" "redflag"
+}
+// entity 100
+{
+"wait" ".25"
+"spawnflags" "5"
+"active_sound" "~sound/feedback/assist.wav"
+"active_all_message" "%N defends the red flag carrier!"
+"victimallowteams" "blue"
+"_etf_comment_2" "Give frag bonus for enemies killed near the flag carrier"
+"give" "score=+1"
+"watchrange" "512"
+"watch" "watchblueflag"
+"checkstate" "blueflag=carried"
+"origin" "224 -1656 -96"
+"allowteams" "red"
+"classname" "misc_onkill"
+"active_message" "^1Assist!^*"
+"gameindex" "1"
+"notholding" "blueflag"
+"_etf_comment_1" "Advanced CTF entities"
+}
+// entity 101
+{
+"classname" "info_notnull"
+"groupname" "delayed_resup"
+"give" "score=+2,health=+100,armor=+200,ammo_shells=+200,ammo_bullets=+200,ammo_cells=+200,ammo_rockets=+200,ammo_medikit=+50,ammo_charge=+1,gren1=+4,gren2=+2"
+"origin" "64 -1960 -96"
+}
+// entity 102
+{
+"origin" "440 -1456 -96"
+"wait" "2"
+"active_message" "Your team cannot use this lift."
+"classname" "info_notnull"
+"groupname" "liftfail"
+}
+// entity 103
+{
+"gameindex" "1"
+"groupname" "respawner"
+"origin" "140 -1832 -100"
+"classname" "target_respawn"
+"affectteams" "red,blue"
+}
+// entity 104
+{
+"active_all_sound" "~sound/feedback/two.wav"
+"groupname" "two"
+"active_all_message" "~^32..."
+"origin" "512 -1216 -96"
+"classname" "info_notnull"
+"gameindex" "1"
+"affectteams" "red,blue"
+}
+// entity 105
+{
+"active_all_sound" "~sound/feedback/one.wav"
+"groupname" "one"
+"active_all_message" "~^21..."
+"origin" "512 -1240 -96"
+"classname" "info_notnull"
+"gameindex" "1"
+"affectteams" "red,blue"
+}
+// entity 106
+{
+"active_all_sound" "~sound/feedback/fight.wav"
+"active_all_message" "~FIGHT!"
+"groupname" "fightred"
+"origin" "512 -1264 -96"
+"classname" "info_notnull"
+"affectteams" "red,blue"
+"gameindex" "1"
+"activetarget" "countdownra=~disabled,countdownba=~inactive,resetcountred,respawnertrigb=~active,redstuff=~invisible,redatk=~inactive,bluestuff=~inactive,blueatk=~invisible,redflaghud=~invisible"
+}
+// entity 107
+{
+"target_1" "one"
+"target_2" "two"
+"target_3" "three"
+"initialstate" "disabled"
+"groupname" "countdownra"
+"slot" "2"
+"color" "0 0 1"
+"target_0" "fightred"
+"endvalue" "0"
+"initialvalue" "300"
+"origin" "480 -1264 -96"
+"classname" "misc_matchtimer"
+"gameindex" "1"
+"target_20" "redoffswitch=~active,teamswitch=~active"
+}
+// entity 108
+{
+"classname" "info_notnull"
+"origin" "512 -1192 -96"
+"active_all_message" "~^13..."
+"groupname" "three"
+"active_all_sound" "~sound/feedback/three.wav"
+"gameindex" "1"
+"affectteams" "red,blue"
+}
+// entity 109
+{
+"wait" ".25"
+"activetarget" "countdownra=~invisible"
+"classname" "info_notnull"
+"origin" "512 -1288 -96"
+"groupname" "resetcountred"
+"gameindex" "1"
+}
+// entity 110
+{
+"active_shader" "textures/etf_assault/off_red_lost"
+"initialstate" "invisible"
+"_etf_comment_2" "Red flag status indicator"
+"_etf_comment_1" "Advanced CTF entities"
+"groupname" "redatkhud"
+"classname" "func_hud"
+"origin" "512 -1376 -96"
+"slot" "4"
+"inactive_shader" "textures/etf_assault/off_red"
+}
+// entity 111
+{
+"active_shader" "textures/etf_assault/def_blue_lost"
+"initialstate" "invisible"
+"inactive_shader" "textures/etf_assault/def_blue"
+"slot" "5"
+"origin" "512 -1400 -96"
+"classname" "func_hud"
+"groupname" "redatkhud"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "Red flag status indicator"
+}
+// entity 112
+{
+"initialstate" "inactive"
+"active_shader" "textures/etf_assault/off_blue_lost"
+"inactive_shader" "textures/etf_assault/off_blue"
+"slot" "4"
+"origin" "536 -1376 -96"
+"classname" "func_hud"
+"groupname" "bah"
+"_etf_comment_1" "Advanced CTF entities"
+"_etf_comment_2" "Red flag status indicator"
+}
+// entity 113
+{
+"initialstate" "inactive"
+"active_shader" "textures/etf_assault/def_red_lost"
+"_etf_comment_2" "Red flag status indicator"
+"_etf_comment_1" "Advanced CTF entities"
+"groupname" "bah"
+"classname" "func_hud"
+"origin" "536 -1400 -96"
+"slot" "5"
+"inactive_shader" "textures/etf_assault/def_red"
+}
+// entity 114
+{
+"groupname" "redoffswitch"
+"inactivetarget" "redatkhud=~inactive"
+"activetarget" "bah=~invisible,redatkhud=~active"
+"wait" "20"
+"origin" "512 -1436 -96"
+"classname" "target_delay"
+}
+// entity 115
+{
+"groupname" "blueoffswitch"
+"classname" "target_delay"
+"origin" "536 -1436 -96"
+"wait" "20"
+"activetarget" "redatkhud=~invisible,bah=~active"
+"inactivetarget" "bah=~inactive"
+}
+// entity 116
+{
+"gameindex" "1"
+"classname" "misc_matchtimer"
+"origin" "392 -1264 -96"
+"initialvalue" "300"
+"endvalue" "0"
+"target_0" "fightblue"
+"color" "1 0 0"
+"slot" "7"
+"groupname" "countdownba"
+"initialstate" "disabled"
+"target_3" "three"
+"target_2" "two"
+"target_1" "one"
+"target_20" "blueoffswitch=~active,teamswitch=~active"
+}
+// entity 117
+{
+"activetarget" "countdownba=~disabled,countdownra=~inactive,resetcountblue,respawnertrigr=~active,bluestuff=~invisible,blueatk=~inactive,redstuff=~inactive,redatk=~invisible,blueflaghud=~invisible"
+"gameindex" "1"
+"affectteams" "red,blue"
+"classname" "info_notnull"
+"origin" "360 -1264 -96"
+"groupname" "fightblue"
+"active_all_message" "~FIGHT!"
+"active_all_sound" "~sound/feedback/fight.wav"
+}
+// entity 118
+{
+"gameindex" "1"
+"groupname" "resetcountblue"
+"origin" "360 -1288 -96"
+"classname" "info_notnull"
+"activetarget" "countdownba=~invisible"
+"wait" ".25"
+}
+// entity 119
+{
+"active_all_message" "~^3Team switch in 20 seconds... please change classes as desired."
+"wait" ".25"
+"classname" "info_notnull"
+"origin" "440 -1320 -96"
+"groupname" "teamswitch"
+"gameindex" "1"
+}
+// entity 120
+{
+"classname" "func_forcefield"
+"allowteams" "blue"
+"groupname" "blueatk"
+// brush 0
+{
+( 672 360 8 ) ( 672 208 8 ) ( 704 208 8 ) etf_assault/blue_forcefield -32 -16 90 0.500000 0.500000 0 264 0
+( 704 192 256 ) ( 672 192 256 ) ( 672 344 256 ) etf_assault/blue_forcefield -32 -16 90 0.500000 0.500000 0 264 0
+( 685 216 225 ) ( 685 368 225 ) ( 685 368 97 ) etf_assault/blue_forcefield -32 -96 0 0.500000 0.500000 0 264 0
+( 704 384 224 ) ( 672 384 224 ) ( 672 384 96 ) etf_assault/blue_forcefield 16 -96 -180 0.500000 -0.500000 0 264 0
+( 684 424 224 ) ( 684 272 224 ) ( 684 272 96 ) etf_assault/blue_forcefield -32 -96 0 0.500000 0.500000 0 264 0
+( 672 192 220 ) ( 704 192 220 ) ( 704 192 92 ) etf_assault/blue_forcefield 16 -96 -180 0.500000 -0.500000 0 264 0
+}
+}
+// entity 121
+{
+"groupname" "redatk"
+"allowteams" "red"
+"classname" "func_forcefield"
+"initialstate" "disabled"
+// brush 0
+{
+( 664 192 220 ) ( 696 192 220 ) ( 696 192 92 ) etf_assault/red_forcefield 16 -96 -180 0.500000 -0.500000 0 264 0
+( 679 360 224 ) ( 679 208 224 ) ( 679 208 96 ) etf_assault/red_forcefield -32 -96 0 0.500000 0.500000 0 264 0
+( 696 384 224 ) ( 664 384 224 ) ( 664 384 96 ) etf_assault/red_forcefield 16 -96 -180 0.500000 -0.500000 0 264 0
+( 680 280 224 ) ( 680 432 224 ) ( 680 432 96 ) etf_assault/red_forcefield -32 -96 0 0.500000 0.500000 0 264 0
+( 696 192 256 ) ( 664 192 256 ) ( 664 344 256 ) etf_assault/red_forcefield -32 -16 90 0.500000 0.500000 0 264 0
+( 664 360 8 ) ( 664 208 8 ) ( 696 208 8 ) etf_assault/red_forcefield -32 -16 90 0.500000 0.500000 0 264 0
+}
+}
+// entity 122
+{
+"groupname" "blueatk"
+"allowteams" "blue"
+"classname" "func_forcefield"
+// brush 0
+{
+( 672 -152 8 ) ( 672 -304 8 ) ( 704 -304 8 ) etf_assault/blue_forcefield -32 -15 90 0.500000 0.500000 0 264 0
+( 704 -320 256 ) ( 672 -320 256 ) ( 672 -168 256 ) etf_assault/blue_forcefield -32 -15 90 0.500000 0.500000 0 264 0
+( 685 -296 225 ) ( 685 -144 225 ) ( 685 -144 97 ) etf_assault/blue_forcefield -32 -96 0 0.500000 0.500000 0 264 0
+( 704 -128 224 ) ( 672 -128 224 ) ( 672 -128 96 ) etf_assault/blue_forcefield 16 -96 -180 0.500000 -0.500000 0 264 0
+( 684 -128 224 ) ( 684 -280 224 ) ( 684 -280 96 ) etf_assault/blue_forcefield -32 -96 0 0.500000 0.500000 0 264 0
+( 672 -320 220 ) ( 704 -320 220 ) ( 704 -320 92 ) etf_assault/blue_forcefield 16 -96 -180 0.500000 -0.500000 0 264 0
+}
+}
+// entity 123
+{
+"initialstate" "disabled"
+"classname" "func_forcefield"
+"allowteams" "red"
+"groupname" "redatk"
+// brush 0
+{
+( 664 -320 220 ) ( 696 -320 220 ) ( 696 -320 92 ) etf_assault/red_forcefield 16 -96 -180 0.500000 -0.500000 0 264 0
+( 679 -152 224 ) ( 679 -304 224 ) ( 679 -304 96 ) etf_assault/red_forcefield -32 -96 0 0.500000 0.500000 0 264 0
+( 696 -128 224 ) ( 664 -128 224 ) ( 664 -128 96 ) etf_assault/red_forcefield 16 -96 -180 0.500000 -0.500000 0 264 0
+( 680 -272 224 ) ( 680 -120 224 ) ( 680 -120 96 ) etf_assault/red_forcefield -32 -96 0 0.500000 0.500000 0 264 0
+( 696 -320 256 ) ( 664 -320 256 ) ( 664 -168 256 ) etf_assault/red_forcefield -32 -15 90 0.500000 0.500000 0 264 0
+( 664 -152 8 ) ( 664 -304 8 ) ( 696 -304 8 ) etf_assault/red_forcefield -32 -15 90 0.500000 0.500000 0 264 0
+}
+}
+// entity 124
+{
+"classname" "func_forcefield"
+"allowteams" "blue"
+"groupname" "bluestuff"
+// brush 0
+{
+( -408 340 8 ) ( -408 188 8 ) ( -376 188 8 ) etf_assault/blue_forcefield 48 72 0 0.500000 0.500000 0 264 0
+( -376 196 224 ) ( -408 196 224 ) ( -408 348 224 ) etf_assault/blue_forcefield 48 72 0 0.500000 0.500000 0 264 0
+( -392 185 168 ) ( -392 337 168 ) ( -392 337 40 ) etf_assault/blue_forcefield -72 64 0 0.500000 0.500000 0 264 0
+( -376 448 168 ) ( -408 448 168 ) ( -408 448 40 ) etf_assault/blue_forcefield 48 64 0 0.500000 0.500000 0 264 0
+( -393 457 112 ) ( -393 305 112 ) ( -393 305 -16 ) etf_assault/blue_forcefield -72 64 0 0.500000 0.500000 0 264 0
+( -392 192 168 ) ( -360 192 168 ) ( -360 192 40 ) etf_assault/blue_forcefield 48 64 0 0.500000 0.500000 0 264 0
+}
+}
+// entity 125
+{
+"groupname" "redstuff"
+"allowteams" "red"
+"classname" "func_forcefield"
+// brush 0
+{
+( -400 192 168 ) ( -368 192 168 ) ( -368 192 40 ) etf_assault/red_forcefield 48 64 0 0.500000 0.500000 0 264 0
+( -401 460 168 ) ( -401 308 168 ) ( -401 308 40 ) etf_assault/red_forcefield -72 64 0 0.500000 0.500000 0 264 0
+( -384 448 168 ) ( -416 448 168 ) ( -416 448 40 ) etf_assault/red_forcefield 48 64 0 0.500000 0.500000 0 264 0
+( -400 276 112 ) ( -400 428 112 ) ( -400 428 -16 ) etf_assault/red_forcefield -72 64 0 0.500000 0.500000 0 264 0
+( -384 196 224 ) ( -416 196 224 ) ( -416 348 224 ) etf_assault/red_forcefield 48 72 0 0.500000 0.500000 0 264 0
+( -416 340 8 ) ( -416 188 8 ) ( -384 188 8 ) etf_assault/red_forcefield 48 72 0 0.500000 0.500000 0 264 0
+}
+}

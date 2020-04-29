@@ -1,0 +1,26 @@
+mapinfo {
+	map		"etf_stag";
+	longname	"Stag";
+	type		"etf";
+	gameindices	"1,2,3,9";
+//	skyportalremap	"textures/etf_stag/sky1_skyportal,textures/etf_stag/sky1,0";
+	gameindexDef 1 {
+		longname	"Stag CTF";
+		mapinfo		"^1Game Mode: ^3Capture The Flag\n^76-10 players per team.\nSteal the enemy flag and capture it at the marker in front of your lower respawn for 10 team points.";
+	}
+	gameindexDef 2 {
+		longname	"Stag 1-flag CTF";
+		mapinfo		"^1Game Mode: ^3One Flag Capture The Flag\n^76-10 players per team.\nSteal the flag from the center of the map and capture it at your enemy's flag stand for 10 team points.";
+	}
+	gameindexDef 3 {
+		longname	"Stag Reverse CTF";
+		mapinfo		"^1Game Mode: ^3Reverse Capture The Flag\n^76-10 players per team.\nTake your flag to the enemy flag stand to capture it for 10 team points.";
+	}
+	gameindexDef 9 {
+		longname	"Stag Fast Caps";
+		mapinfo		"^1Game Mode: ^3Fast Caps\n^71 Player.\nYou spawn as red team by the timer flag. Take the flag to the opposite capture point as fast as you can!";
+red_limit "1";
+		novote "1";
+	}
+}
+
